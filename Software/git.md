@@ -14,6 +14,16 @@
 
 
 
+
+
+# Frequent sequence of commands:
+        git pull
+        <modify file>
+        git add .
+        git status
+        git commit -m "message"
+        git push
+    
 # References
 Nice quickstart example  
 https://docs.github.com/en/get-started/using-git/about-git
