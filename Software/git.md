@@ -4,7 +4,7 @@
     
 # Subsequent
     git pull                                            #update local repo to match online repo
-    git push
+    git push                                            #merge
 
 # General
     git status                                              #can check branch
