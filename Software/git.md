@@ -12,8 +12,8 @@
     git add <filename>                                  #to make git aware of the file
     git add .
 
-
-
+# Resolve diverging branches
+    git merge origin/main                          #origin means the one online
 
 
 # Frequent sequence of commands:
