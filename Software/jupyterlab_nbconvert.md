@@ -5,7 +5,9 @@ PDF conversion fails because of Latex error. But error is not shown...
 
 ### Solution
 Inspiration: this gave me a lead that I should look for the log file and error output, but where though???    
-https://stackoverflow.com/questions/62354358/failed-to-run-xelatex-notebook-tex-quiet-command-when-trying-to-download-ju
+https://stackoverflow.com/questions/62354358/failed-to-run-xelatex-notebook-tex-quiet-command-when-trying-to-download-ju  
+And this showed that much of the code is written in Python!  
+https://nbconvert.readthedocs.io/en/latest/nbconvert_library.html
 
 Look for this file.  
 https://github.com/jupyter/nbconvert/blob/main/nbconvert/exporters/pdf.py
