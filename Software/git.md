@@ -10,3 +10,13 @@
     git status                                              #can check branch
     git commit -m "message"
     git add <filename>                                  #to make git aware of the file
+
+
+
+
+# References
+Nice quickstart example  
+https://docs.github.com/en/get-started/using-git/about-git
+
+Git tutorial  
+https://git-scm.com/docs/gittutorial
