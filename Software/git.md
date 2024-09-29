@@ -10,7 +10,7 @@
     git status                                              #can check branch
     git commit -m "message"
     git add <filename>                                  #to make git aware of the file
-
+    git add .
 
 
 
@@ -20,3 +20,6 @@ https://docs.github.com/en/get-started/using-git/about-git
 
 Git tutorial  
 https://git-scm.com/docs/gittutorial
+
+How to add all modified files  
+https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add
