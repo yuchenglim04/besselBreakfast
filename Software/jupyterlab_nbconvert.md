@@ -22,8 +22,9 @@ This should show the location of the nbconvert library:
 
 Modify the file by removing the '-quite' element. You can then immediately run nbconvert.
   
-  
-  
+<\br>
+<\br>
+
 Possible improvements:  
 https://stackoverflow.com/questions/876239/how-to-redirect-and-append-both-standard-output-and-standard-error-to-a-file-wit  
 https://stackoverflow.com/questions/29980798/where-does-pip-install-its-packages
