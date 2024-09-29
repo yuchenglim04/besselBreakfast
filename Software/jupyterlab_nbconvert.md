@@ -11,6 +11,7 @@ Look for this file.
 https://github.com/jupyter/nbconvert/blob/main/nbconvert/exporters/pdf.py
 
 The problem lies in
+
       -quite
 
 Removing it will give you the full error log output.
