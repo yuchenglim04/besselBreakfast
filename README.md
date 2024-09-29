@@ -8,7 +8,7 @@ Goals of this club:
 - encourage students to take on the challenge to self-learn
 - provide guidance on where to start, and ideas on how crazy things can be
 - tips and tricks :)
-- help make NTU crazy again
+- help make NTU curriculum young again
 
 We currently have no plans on creating a webpage. Instead, all articles will be posted here. Do familiarise yourself with navigating the repository. 
 
