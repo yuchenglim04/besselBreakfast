@@ -21,9 +21,9 @@ This should show the location of the nbconvert library:
         pip show nbconvert
 
 Modify the file by removing the '-quite' element. You can then immediately run nbconvert.
-  
-<\br>
-<\br>
+
+<br>
+<br>
 
 Possible improvements:  
 https://stackoverflow.com/questions/876239/how-to-redirect-and-append-both-standard-output-and-standard-error-to-a-file-wit  
