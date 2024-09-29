@@ -1,6 +1,6 @@
 # BocchiTheRock
 
-This is supposedly an NTU math and physics club. But since Physics is the theory of everything, everything technical and crazy fits here too.
+This is supposedly an NTU math and physics club. But since Physics and Math are the theory of everything, everything technical and crazy fits here too.
 
 Also, this club is unofficial, so no CCA points granted. We hope members are here for the Science, not CCA points.
 
