@@ -1,15 +1,10 @@
 # First time
-
     git clone https://github.com/yuchenglim04/BocchiTheRock     #creates a folder.
     git push --set-upstream origin <branchname>                 #merge with online repo; branchname might be main
-    cd Bocchi*
-    
-    
     
 # Subsequent
-
-git pull                                            #update local repo to match online repo
-git push
+    git pull                                            #update local repo to match online repo
+    git push
 
 # General
     git status                                              #can check branch
