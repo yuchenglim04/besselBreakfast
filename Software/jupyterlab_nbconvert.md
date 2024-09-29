@@ -1,5 +1,5 @@
 ### Problem:
-  jupyter nbconvert --to pdf my_notebook.ipynb
+    jupyter nbconvert --to pdf my_notebook.ipynb
 
 PDF conversion fails because of Latex error. But error is not shown...
 
