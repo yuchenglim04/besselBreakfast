@@ -4,7 +4,7 @@
 PDF conversion fails because of Latex error. But error is not shown...
 
 ### Solution
-Inspiration: this gave me a lead that I should look for the log file, but where though???    
+Inspiration: this gave me a lead that I should look for the log file and error output, but where though???    
 https://stackoverflow.com/questions/62354358/failed-to-run-xelatex-notebook-tex-quiet-command-when-trying-to-download-ju
 
 Look for this file.  
