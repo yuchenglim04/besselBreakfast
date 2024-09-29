@@ -13,7 +13,7 @@
     git add .
 
 # Resolve diverging branches
-    git merge origin/main                          #origin means the one online
+    git merge origin/main -m "message"                          #origin means the one online
 
 
 # Frequent sequence of commands:
