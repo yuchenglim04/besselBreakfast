@@ -9,3 +9,4 @@ Goals of this club:
 - provide guidance on where to start, and ideas on how crazy things can be
 - tips and tricks :)
 
+We currently have no plans on creating a webpage. Instead, all articles will be posted here. Do familiarise yourself with navigating the repository. 
