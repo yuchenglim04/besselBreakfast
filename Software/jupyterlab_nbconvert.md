@@ -1,4 +1,6 @@
 ### Problem:
+  jupyter nbconvert --to pdf my_notebook.ipynb
+
 PDF conversion fails because of Latex error. But error is not shown...
 
 ### Solution
@@ -14,3 +16,9 @@ This should show the location of the nbconvert library:
   pip show nbconvert
 
 Modify the file by removing the '-quite' element. You can then immediately run nbconvert.
+
+Possible improvements:  
+https://stackoverflow.com/questions/876239/how-to-redirect-and-append-both-standard-output-and-standard-error-to-a-file-wit
+
+Background:  
+https://tex.stackexchange.com/questions/354518/what-does-the-emergency-stop-error-mean
