@@ -12,8 +12,8 @@
     git add <filename>                                  #to make git aware of the file
     git add .
 
-
-
+# Resolve diverging branches
+    git merge origin/main -m "message"                          #origin means the one online
 
 
 # Frequent sequence of commands:
@@ -33,3 +33,6 @@ https://git-scm.com/docs/gittutorial
 
 How to add all modified files  
 https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add
+
+git commit  
+https://git-scm.com/docs/git-commit#_options
