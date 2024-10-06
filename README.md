@@ -9,7 +9,7 @@ Goals of this club/some personal opinions:
 - provide guidance on where to start, and ideas on how crazy things can be
 - tips and tricks :)
 - an alternative NTU curriculum
-- contribute to open-source movement: the purpose of open-source software isn't free software, but freely accessible knowledge
+- contribute to open-source movement: the purpose of open-source software isn't free software, but freely accessible knowledge, how algorithms are developed and implemented etc
 
   
 We currently have no plans on creating a webpage. Instead, all articles will be posted here. Do familiarise yourself with navigating the repository. 
