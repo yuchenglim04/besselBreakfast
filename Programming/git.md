@@ -1,5 +1,5 @@
 # First time
-    git clone https://github.com/yuchenglim04/BocchiTheRock     #creates a folder.
+    git clone https://github.com/yuchenglim04/bocchiTheHacker     #creates a folder.
     git push --set-upstream origin <branchname>                 #merge with online repo; branchname might be main
     
 # Subsequent
