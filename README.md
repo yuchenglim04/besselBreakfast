@@ -8,7 +8,7 @@ Goals of this club/some personal opinions:
 - encourage students to take on the challenge to self-learn
 - provide guidance on where to start, and ideas on how crazy things can be
 - tips and tricks :)
-- help make NTU curriculum young again
+- an alternative NTU curriculum
 - contribute to open-source movement: the purpose of open-source software isn't free software, but freely accessible knowledge
 
   
