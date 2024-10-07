@@ -13,3 +13,6 @@ https://cscie2x.dce.harvard.edu/hw/ch01s06.html
 When trying to read about possible flags, e.g. google search "grep man7"  
 linux commands manual  
 https://man7.org/linux/man-pages/index.html
+
+# specific
+https://stackoverflow.com/questions/10346816/using-grep-to-search-for-a-string-that-has-a-dot-in-it
