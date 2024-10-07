@@ -16,6 +16,6 @@ https://man7.org/linux/man-pages/index.html
 
 # specific
 most important beginner syntax: io redirection  
-https://tldp.org/LDP/abs/html/io-redirection.html#FTN.AEN17884
+https://tldp.org/LDP/abs/html/io-redirection.html
 
 https://stackoverflow.com/questions/10346816/using-grep-to-search-for-a-string-that-has-a-dot-in-it
