@@ -23,7 +23,13 @@
         git status
         git commit -m "message"
         git push
-    
+
+# To delete a local git repo
+        ls -al            # to reveal .git directory in your repo
+        rm -rf .git       
+        rm <repo name>
+
+
 # References
 Nice quickstart example  
 https://docs.github.com/en/get-started/using-git/about-git
