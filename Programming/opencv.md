@@ -32,7 +32,7 @@ cmake output:
 
 </br>
 
-**where should python module be installed**
+**where should python module be installed**  
 some hints:
 ```
 pip show numpy      # gives installation location
