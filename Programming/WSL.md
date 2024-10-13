@@ -1,6 +1,6 @@
 **Programmes downloaded in Windows vs in WSL**  
-`jupyter lab      # WSL`  
-`jupyter.exe lab  # Windows`  
+`jupyter      # WSL`  
+`jupyter.exe  # Windows`  
 Try `which` to find out  
 
 **File system**  
