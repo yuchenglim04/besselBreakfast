@@ -40,5 +40,8 @@ https://git-scm.com/docs/gittutorial
 How to add all modified files  
 https://stackoverflow.com/questions/572549/difference-between-git-add-a-and-git-add
 
+How to delete git repo  
+https://stackoverflow.com/questions/1213430/how-to-fully-delete-a-git-repository-created-with-init
+
 git commit  
 https://git-scm.com/docs/git-commit#_options
