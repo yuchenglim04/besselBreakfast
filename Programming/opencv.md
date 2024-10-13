@@ -3,7 +3,7 @@ https://github.com/Eemilp/install-opencv-on-wsl
 https://pimylifeup.com/raspberry-pi-opencv/  
 
 
-## Difficulties  
+# Difficulties  
 **`make -j4` too slow**  
 use `nproc` command to show number of cores. Don't use too many if you plan to work on something else while compiling!
 
