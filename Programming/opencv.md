@@ -57,6 +57,33 @@ https://docs.opencv.org/4.x/db/d05/tutorial_config_reference.html
 </br>
 </br>
 
+
+# What I actually did
+- So I apt-get all the packages from the two links above. I have no idea what the function of each package is...
+- I used WSL; so I had to specifically go to the home directory.
+- I cloned the two repos; but I used the latest release i.e. I did not change the versions.
+```
+cd opencv
+mkdir build
+cd build
+
+cmake -D CMAKE_BUILD_TYPE=RELEASE \
+    -D CMAKE_INSTALL_PREFIX=/usr/local \
+    -D OPENCV_EXTRA_MODULES_PATH= /home/username/folder_name/opencv_contrib/modules \        # just pwd the opencv_contrib/modules and paste here
+    -D ENABLE_NEON=ON \
+    -D WITH_OPENMP=ON \
+    -D ENABLE_VFPV3=OFF \
+    -D BUILD_TESTS=OFF \
+    -D INSTALL_PYTHON_EXAMPLES=ON \
+    -D OPENCV_ENABLE_NONFREE=ON \
+    -D CMAKE_SHARED_LINKER_FLAGS=-latomic \
+    -D OPENCV_PYTHON_INSTALL_PATH= /home/username/.local/lib/python3.10/site-packages \         # using the folder in which numpy.__file__ is contained
+    -D BUILD_EXAMPLES=ON ..
+nproc
+make -j7
+sudo make install
+
+```
 # Background
 
 **right next to branch, you'll see release and tags**  
