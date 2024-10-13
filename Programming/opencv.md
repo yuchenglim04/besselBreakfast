@@ -1,4 +1,4 @@
-Examples: don't jsut follow blindly!  
+Examples: don't just follow blindly!  
 https://github.com/Eemilp/install-opencv-on-wsl   
 https://pimylifeup.com/raspberry-pi-opencv/  
 
