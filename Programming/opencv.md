@@ -44,7 +44,7 @@ ls -d */ | wc
 
 </br>
 
-**Don't delete build if you want to uninstall!**  
+**Don't delete build folder if you want to uninstall!**  
 `sudo make uninstall`
 
 </br>
