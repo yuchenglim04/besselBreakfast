@@ -33,13 +33,16 @@ cmake output:
 </br>
 
 **where should python module be installed**
+some hints:
 ```
 pip show numpy      # gives installation location
 which python3
 which jupyter
-cd <directory>
-ls -d folder_name/
-ls -d */ | wc
+```
+Final: in Python shell,
+```
+import numpy as np
+np.__file__
 ```
 
 </br>
