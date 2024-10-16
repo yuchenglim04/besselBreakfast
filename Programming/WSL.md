@@ -1,3 +1,6 @@
+**Check WSL version via Windows command prompt**
+`wsl -l -v`
+
 **Programmes downloaded in Windows vs in WSL**  
 `jupyter      # WSL`  
 `jupyter.exe  # Windows`  
