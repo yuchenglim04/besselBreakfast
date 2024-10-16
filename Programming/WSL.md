@@ -1,4 +1,4 @@
-**Check WSL version via Windows command prompt**
+**Check WSL version via Windows command prompt**  
 `wsl -l -v`
 
 **Programmes downloaded in Windows vs in WSL**  
