@@ -2,7 +2,7 @@
 
 
 <figure>
-    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/bocchiTheHacker.jpg" width="150" >
+    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/bocchiThePenguin1" width="150" >
     <figcaption>Bocchi the Penguin</figcaption>
 </figure>
 
