@@ -1,6 +1,6 @@
 # bocchiTheHacker
 
-![bocchiTheHacker](bocchiTheHacker.jpg)
+<img src="https://github.com/yuchenglim04/bocchiTheHacker/images/bocchiTheHacker.jpg" width="100" >
 
 This is an unofficial, and self-proclaimed an NTU Math and Physics club (cult?). But since Physics and Math together constitute the theory of everything, anything technical, elegant, ingenius and crazy fits here too.
 
