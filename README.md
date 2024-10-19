@@ -21,3 +21,11 @@ Goals of this club/some personal opinions:
 We currently have no plans on creating a webpage. Instead, all articles will be posted here. Do familiarise yourself with navigating the repository. 
 
 Anyone has a better name for the club? Your suggestions are highly appreciated.
+
+</br>
+</br>
+
+<figure>
+    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/bocchiThePenguin2.jpg" width="150" >
+    <figcaption> <i> Bocchi the Penguin </i> </figcaption>
+</figure>
