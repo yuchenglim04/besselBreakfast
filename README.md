@@ -3,7 +3,7 @@
 
 <figure>
     <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/bocchiThePenguin1.jpg" width="150" >
-    <figcaption>Bocchi the Penguin</figcaption>
+    <figcaption> <i> Bocchi the Penguin </i> </figcaption>
 </figure>
 
 </br>
