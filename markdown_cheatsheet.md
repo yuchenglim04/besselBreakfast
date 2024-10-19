@@ -107,3 +107,5 @@ Works on github, yet becomes code block in website. Even the list fails to rende
 
 _____________________________________________
 Modified from: https://www.markdownguide.org/basic-syntax/
+
+Other references: https://www.markdownguide.org/hacks/
