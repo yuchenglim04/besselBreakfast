@@ -26,6 +26,6 @@ Anyone has a better name for the club? Your suggestions are highly appreciated.
 </br>
 
 <figure>
-    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/bocchiThePenguin2.jpg" width="400" >
+    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/bocchiThePenguin2.jpg" width="150" >
     <figcaption> <i> Bocchi the Penguin </i> </figcaption>
 </figure>
