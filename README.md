@@ -6,6 +6,8 @@
     <figcaption>Bocchi the Penguin</figcaption>
 </figure>
 
+</br>
+</br>
 
 This is an unofficial, and self-proclaimed an NTU Math and Physics club (cult?). But since Physics and Math together constitute the theory of everything, anything technical, elegant, ingenius and crazy fits here too.
 
