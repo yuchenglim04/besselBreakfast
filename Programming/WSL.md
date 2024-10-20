@@ -5,7 +5,7 @@
 `jupyter      # WSL`  
 `jupyter.exe  # Windows`  
 Try `which` to find out  
-  asd
+
 **File system**  
 `/mnt/c/Users/user_name/      # Windows`  
 `~/                           # WSL`
