@@ -1,3 +1,5 @@
+$$\textcolor{blue}{\textbf{All hail colored text!}}$$
+
 # Heading level 1	
 ## Heading level 2	
 ### Heading level 3	
@@ -109,3 +111,7 @@ _____________________________________________
 Modified from: https://www.markdownguide.org/basic-syntax/
 
 Other references: https://www.markdownguide.org/hacks/
+
+Colour on Github:  
+https://tex.stackexchange.com/questions/308087/command-for-both-bold-and-colored-text  
+https://github.com/orgs/community/discussions/31570  
