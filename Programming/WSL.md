@@ -28,3 +28,8 @@ sudo mount -t drvfs D: /mnt/d
 https://askubuntu.com/questions/1116200/how-can-i-access-my-usb-drive-from-my-windows-subsystem-for-linux-ubuntu-dist  
 It's nice when references are given  
 https://askubuntu.com/questions/1454199/how-can-i-mount-a-removable-usb-drive-in-wsl
+
+Try reading the docs: too much info??  
+http://man.he.net/?topic=mount&section=all  
+Another docs: too much info missing  
+https://ss64.com/bash/mount.html  
