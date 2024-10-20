@@ -24,7 +24,7 @@ https://broersma.dev/how-to-start-wsl-in-linux-user-home/
 ```
 sudo mkdir /mnt/d                      # choose a matching letter to your drive
 sudo mount -t drvfs D: /mnt/d
-sudo umount d                          # still have to eject via Windows
+sudo umount d                          # still have to eject via Windows; the folder d is still there; notice the changes in highlighting
 ```
 https://askubuntu.com/questions/1116200/how-can-i-access-my-usb-drive-from-my-windows-subsystem-for-linux-ubuntu-dist  
 It's nice when references are given  
