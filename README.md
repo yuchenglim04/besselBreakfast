@@ -20,7 +20,7 @@ Goals of this club/some personal opinions:
 
 We currently have no plans on creating a webpage. Instead, all articles will be posted here. Do familiarise yourself with navigating the repository. 
 
-Anyone has a better name for the club? Your suggestions are highly appreciated. I just hope that the eccentric name of this repo isn't an infringment on trademark/IP... 
+Anyone has a better name for the club? Your suggestion is highly appreciated. I just hope that the eccentric name of this repo isn't an infringment on trademark/IP... As for why Bocchi, I thought that it aligns with in the spirit of science: science is meant to be fun.
 
 </br>
 </br>
