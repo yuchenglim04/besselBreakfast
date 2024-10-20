@@ -12,7 +12,7 @@
 **To check backup:**
 ```
 tar -tf tar_file                                             # -f is needed for tar to open the file
-tar -ft tar_file                                             # doesn't work!
+tar -ft tar_file                                             # doesn't work! Because the file name is the parameter for the flag -f, so parameter must follow flag
 tar -tvf tar_file  | more                                    # -v verbose ; |more for pagination
 ```
 
