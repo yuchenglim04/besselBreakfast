@@ -6,7 +6,7 @@
 --exclude='./.*' \                                            # if ".", will exclude current directory!
 --exclude='projects/opencv' \
 --exclude='projects/opencv_contrib' \
--zcvf /mnt/d/project_files_$(date +%Y%m%d).tar.gz . \        # "." current directory
+-zcvf /mnt/d/project_files_$(date +%Y%m%d).tar.gz . \        # "." current directory # -z to compress
 ```
 
 **To check backup:**
@@ -14,6 +14,14 @@
 tar -tf tar_file                                             # -f is needed for tar to open the file
 tar -ft tar_file                                             # doesn't work! Because the file name is the parameter for the flag -f, so parameter must follow flag
 tar -tvf tar_file  | more                                    # -v verbose ; |more for pagination
+```
+
+**To extract**
+```
+cd target_directory
+tar -xvf path/tar_file.tar.gz                                # extract all
+tar -xvf ../tar_file.tar.gz ./what_you_want                    # if you archived .
+tar -xvf ../tar_file.tar.gz compressed_folder_name/what_you_want    # if you archived a folder
 ```
 
 ### Read the docs
