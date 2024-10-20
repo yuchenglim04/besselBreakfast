@@ -1,8 +1,10 @@
-**. vs ..**
+**. vs ..**  
 ```
 ls -aF                  # you'll see ./ and ../
 cd .                    # so . and .. are treated as directories in your folder!
 ```
+**color, highlighting and ls**  
+https://unix.stackexchange.com/questions/94498/what-causes-this-green-background-in-ls-output  
 
 **super user**  
 ```
