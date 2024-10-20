@@ -25,7 +25,7 @@ https://www.gnu.org/software/tar/manual/html_node/file-tutorial.html#file-tutori
 </br>
 </br>
 
-**Backup specific folders**
+**Backup specific folders**  
 https://askubuntu.com/questions/978795/using-tar-to-only-backup-specific-folders  
 **Exclude folders**  
 https://stackoverflow.com/questions/984204/shell-command-to-tar-directory-excluding-certain-files-folders  
