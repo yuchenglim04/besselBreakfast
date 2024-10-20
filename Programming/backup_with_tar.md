@@ -1,7 +1,7 @@
 **To backup:**
 ```
  tar \
---exclude='pico/pico-sdk' \
+--exclude='pico/pico-sdk' \                                    # excluding large files that I don't need
 --exclude='pico/pico-examples'  \
 --exclude='./.*' \                                            # if ".", will exclude current directory!
 --exclude='projects/opencv' \
