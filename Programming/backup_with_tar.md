@@ -12,6 +12,7 @@
 **To check backup:**
 ```
 tar -tf tar_file                                             # -f is needed for tar to open the file
+tar -tvf tar_file  | more                                    # -v verbose ; |more for pagination
 ```
 
 ### Read the docs
