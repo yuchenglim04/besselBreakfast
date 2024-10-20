@@ -1,3 +1,9 @@
+**. vs ..**
+```
+ls -aF                  # you'll see ./ and ../
+cd .                    # so . and .. are treated as directories in your folder!
+```
+
 **super user**  
 ```
 id                # check your permissions
