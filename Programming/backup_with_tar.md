@@ -17,8 +17,8 @@ tar -tf tar_file                                             # -f is needed for 
 ### Read the docs
 short  
 https://www.commandlinux.com/man-page/man1/tar.1.html  
-long: what's the point with -f
-https://www.gnu.org/software/tar/manual/html_node/file-tutorial.html#file-tutorial
+long: what's the point with -f  
+https://www.gnu.org/software/tar/manual/html_node/file-tutorial.html#file-tutorial  
 
 </br>
 </br>
