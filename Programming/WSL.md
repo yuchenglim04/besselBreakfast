@@ -21,11 +21,19 @@ https://broersma.dev/how-to-start-wsl-in-linux-user-home/
 
 
 **Mount USB**  
+Apparently Windows has already mounted the USB, but WSL jsut can't 'see' it. Even blkid can't.
 ```
 sudo mkdir /mnt/d                      # choose a matching letter to your drive
 sudo mount -t drvfs D: /mnt/d
 sudo umount d                          # still have to eject via Windows; the folder d is still there; notice the changes in highlighting
 ```
+The real linux way:
+```
+sudo blkid                             # try before and after plugging the drive
+lsblk
+df -hT                                 # check space
+```
+
 https://askubuntu.com/questions/1116200/how-can-i-access-my-usb-drive-from-my-windows-subsystem-for-linux-ubuntu-dist  
 It's nice when references are given  
 https://askubuntu.com/questions/1454199/how-can-i-mount-a-removable-usb-drive-in-wsl
