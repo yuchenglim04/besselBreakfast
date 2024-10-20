@@ -50,7 +50,7 @@ https://askubuntu.com/questions/631562/error-cannot-utime-operation-not-supporte
 </br>
 </br>
 
-**how to use date correctly**
+**How to use date correctly**
 ```
 date
 date +20%y%m%d
