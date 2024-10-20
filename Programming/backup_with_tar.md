@@ -43,6 +43,9 @@ https://stackoverflow.com/questions/3651791/tar-add-all-files-and-directories-in
 https://stackoverflow.com/questions/20487843/how-to-make-tar-exclude-hidden-directories  
 **Single command, multiple lines**  
 https://superuser.com/questions/508507/linux-bash-script-single-command-but-multiple-lines  
+**Becareful: extracting to linux/usb**
+Error "Cannot utime: Operation not supported" when restoring a tar archive on an android device  
+https://askubuntu.com/questions/631562/error-cannot-utime-operation-not-supported-when-restoring-a-tar-archive-on-an  
 
 </br>
 </br>
