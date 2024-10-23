@@ -8,6 +8,10 @@ https://www.aliexpress.com/item/1005006159284786.html
 SimonK Firmware Flashing Tutorial (Brushless Drive)  
 https://youtu.be/MQQX7IIdAtI
 
+RC Basics - Understanding Electronic Speed Controllers (ESC)  
+https://youtu.be/OZNxbxL7cdc  
+
+
 ## Problem log
 Problem  
 Solution  
