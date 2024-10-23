@@ -1,4 +1,15 @@
 ## Background reading
+How Brushless Motor and ESC Work and How To Control them using Arduino  
+https://youtu.be/uOQk8SJso6Q  
+- 3 phase: 2 active, 1 inactive at a time
+- back emf: the floating coil
+- $K_v$ and RPM
+- BEC line: same way to control ESC as servo: 50Hz PWM, greater duty cycle, greater speed: 1ms to 2ms?
+- arming of the ESC: minimum value???
+  
+How to measure $K_v$ of motor  
+https://fishpepper.de/2017/10/17/tutorial-how-to-measure-the-kv-of-a-brushless-motor/
+
 Load cell  
 https://youtu.be/sxzoAGf1kOo?si=cU87RI_PW1aGcbZx  
 
@@ -10,21 +21,11 @@ https://youtu.be/MQQX7IIdAtI
 
 RC Basics - Understanding Electronic Speed Controllers (ESC)  
 https://youtu.be/OZNxbxL7cdc  
-
-How Brushless Motor and ESC Work and How To Control them using Arduino  
-https://youtu.be/uOQk8SJso6Q  
-- 3 phase: 2 active, 1 inactive at a time
-- back emf: the floating coil
-- $K_v$ and RPM
-- BEC line: same way to control ESC as servo: 50Hz PWM, greater duty cycle, greater speed: 1ms to 2ms?
-- arming of the ESC: minimum value???
-
-- 
+  
 Control Brushless Motor Using Arduino  
 https://youtu.be/DTOK6CgXRXg  
 
-How to measure $K_v$ of motor  
-https://fishpepper.de/2017/10/17/tutorial-how-to-measure-the-kv-of-a-brushless-motor/
+
 
 ## Problem log
 Problem  
