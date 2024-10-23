@@ -6,6 +6,8 @@ https://youtu.be/uOQk8SJso6Q
 - $K_V$ and RPM
 - BEC line: same way to control ESC as servo: 50Hz PWM, greater duty cycle, greater speed: 1ms to 2ms?
 - arming of the ESC: minimum value???
+
+
   
 How to measure $K_V$ of motor  
 https://fishpepper.de/2017/10/17/tutorial-how-to-measure-the-kv-of-a-brushless-motor/
@@ -18,6 +20,9 @@ https://www.aliexpress.com/item/1005006159284786.html
 
 SimonK Firmware Flashing Tutorial (Brushless Drive)  
 https://youtu.be/MQQX7IIdAtI
+
+What flashing means  
+https://oscarliang.com/flash-esc-simonk-firmware-arduino-without-usbasp/
 
 RC Basics - Understanding Electronic Speed Controllers (ESC)  
 https://youtu.be/OZNxbxL7cdc  
