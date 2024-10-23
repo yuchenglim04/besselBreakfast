@@ -37,5 +37,16 @@ https://youtu.be/DTOK6CgXRXg
 Problem  
 Solution  
 
+**Current vs voltage**  
+**Speed vs voltage**  
+**Current vs speed**  
+https://powerdrives.net/blog/what-is-an-esc
+
+****
+PWM duty cycle signal input  
+Actual duty cycle output by ESC in time  
+Duty cycle after a long time/stabilized ESC output  
+
+
 our motor:
 outrunner
