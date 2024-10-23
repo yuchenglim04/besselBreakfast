@@ -34,16 +34,16 @@ https://youtu.be/DTOK6CgXRXg
 Problem  
 Solution  
 
-**Current vs voltage**  
-**Speed vs voltage**  
-**Current vs speed**  
-**How does maximum current come in, how related to speed/torque?**  
+**How does maximum current come in, how related to speed/torque/duty cycle?**  
 https://powerdrives.net/blog/what-is-an-esc  
 **Is there current limiting/overcurrent protection?**  
 https://www.rcgroups.com/forums/showthread.php?2497878-ESC-current-ratings-limiter  
+Current vs voltage  
+Speed vs voltage  
+Current vs speed  
 
 
-****
+
 PWM duty cycle signal input  
 Actual duty cycle output by ESC in time  
 Duty cycle after a long time/stabilized ESC output  
