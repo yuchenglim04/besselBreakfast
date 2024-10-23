@@ -48,5 +48,10 @@ Actual duty cycle output by ESC in time
 Duty cycle after a long time/stabilized ESC output  
 
 
+
+**DC motors have smooth shaft. How to attach load!??**
+
+
+
 our motor:
 outrunner
