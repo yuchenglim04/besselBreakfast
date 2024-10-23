@@ -11,8 +11,12 @@ https://youtu.be/MQQX7IIdAtI
 RC Basics - Understanding Electronic Speed Controllers (ESC)  
 https://youtu.be/OZNxbxL7cdc  
 
-How Brushless Motor and ESC Work and How To Control them using Arduino
+How Brushless Motor and ESC Work and How To Control them using Arduino  
 https://youtu.be/uOQk8SJso6Q  
+
+Control Brushless Motor Using Arduino  
+https://youtu.be/DTOK6CgXRXg  
+
 
 ## Problem log
 Problem  
