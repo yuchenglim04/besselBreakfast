@@ -10,9 +10,6 @@ https://youtu.be/uOQk8SJso6Q
 How to measure $K_V$ of motor  
 https://fishpepper.de/2017/10/17/tutorial-how-to-measure-the-kv-of-a-brushless-motor/
 
-Current, voltage? Current limiting?  
-https://www.rcgroups.com/forums/showthread.php?2497878-ESC-current-ratings-limiter
-
 Load cell  
 https://youtu.be/sxzoAGf1kOo?si=cU87RI_PW1aGcbZx  
 
@@ -40,7 +37,11 @@ Solution
 **Current vs voltage**  
 **Speed vs voltage**  
 **Current vs speed**  
-https://powerdrives.net/blog/what-is-an-esc
+**How does maximum current come in, how related to speed/torque?**  
+https://powerdrives.net/blog/what-is-an-esc  
+**Is there current limiting/overcurrent protection?**  
+https://www.rcgroups.com/forums/showthread.php?2497878-ESC-current-ratings-limiter  
+
 
 ****
 PWM duty cycle signal input  
