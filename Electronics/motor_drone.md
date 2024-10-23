@@ -46,6 +46,13 @@ Ideas:
 - voltage supplied is to overcome back emf for current
 - steady speed: current depends on resistive forces. Voltage affected by speed and current.
 
+**So, what happens when you start the motor?**  
+Initially motor not moving. Current increases from 0. Torque increases, accelerating the shaft. Speed increases, current decreases so that back emf constant at applied voltage. Maximum speed, minimum current to apply minimum torque to overcome friction etc.  
+**Check out the plots of current, torque, speed!**  
+https://motoranalysis.com/motoranalysis-im/simulation-of-induction-motor-startup/  
+https://pdfs.semanticscholar.org/3208/6d58b4eac62a135e392cec0607eb24ad5cbd.pdf  
+LTSpice Tutorial - Modeling a DC brushed motor  
+https://youtu.be/Wc4XzTrWSpo?si=VNr_Bw-K6fj8ukBM  
 
 PWM duty cycle signal input  
 Actual duty cycle output by ESC in time  
