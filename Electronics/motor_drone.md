@@ -41,7 +41,10 @@ https://www.rcgroups.com/forums/showthread.php?2497878-ESC-current-ratings-limit
 Current vs voltage  
 Speed vs voltage  
 Current vs speed  
-
+Ideas:
+- current through magnetic field -> force
+- voltage supplied is to overcome back emf for current
+- steady speed: current depends on resistive forces. Voltage affected by speed and current.
 
 
 PWM duty cycle signal input  
