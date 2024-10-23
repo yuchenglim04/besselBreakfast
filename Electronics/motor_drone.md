@@ -7,10 +7,11 @@ https://youtu.be/uOQk8SJso6Q
 - BEC line: same way to control ESC as servo: 50Hz PWM, greater duty cycle, greater speed: 1ms to 2ms?
 - arming of the ESC: minimum value???
 
-
-  
 How to measure $K_V$ of motor  
 https://fishpepper.de/2017/10/17/tutorial-how-to-measure-the-kv-of-a-brushless-motor/
+
+Current, voltage? Current limiting?  
+https://www.rcgroups.com/forums/showthread.php?2497878-ESC-current-ratings-limiter
 
 Load cell  
 https://youtu.be/sxzoAGf1kOo?si=cU87RI_PW1aGcbZx  
