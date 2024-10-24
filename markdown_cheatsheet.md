@@ -1,3 +1,19 @@
+Modified from: https://www.markdownguide.org/basic-syntax/
+
+Other references: https://www.markdownguide.org/hacks/
+
+Colour on Github:  
+https://tex.stackexchange.com/questions/308087/command-for-both-bold-and-colored-text  
+https://github.com/orgs/community/discussions/31570  
+
+Using tables on Github  
+https://stackoverflow.com/questions/24319505/how-can-one-display-images-side-by-side-in-a-github-readme-md
+
+Multiple paragraphs within single bullet  
+https://stackoverflow.com/questions/55780011/in-markdown-how-does-one-keep-multiple-paragraphs-within-a-single-bullet-point
+
+________________________
+
 $$\textcolor{blue}{\textbf{All hail colored text!}}$$
 
 $$\LaTeX$$
@@ -105,15 +121,3 @@ Works on github, yet becomes code block in website. Even the list fails to rende
     ![Tux, the Linux mascot](https://odysseyprogramme.github.io/images/tux.jpg)
 
 3. Close the file.
-
-
-
-
-_____________________________________________
-Modified from: https://www.markdownguide.org/basic-syntax/
-
-Other references: https://www.markdownguide.org/hacks/
-
-Colour on Github:  
-https://tex.stackexchange.com/questions/308087/command-for-both-bold-and-colored-text  
-https://github.com/orgs/community/discussions/31570  
