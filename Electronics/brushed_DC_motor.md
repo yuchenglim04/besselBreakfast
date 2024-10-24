@@ -1,3 +1,8 @@
+Inspiration:  
+https://motoranalysis.com/motoranalysis-im/simulation-of-induction-motor-startup/  
+https://powerdrives.net/blog/what-is-an-esc  
+
+
 Components used:  
 - Brushed DC hobby motor  
   (the cheapest one!)
