@@ -27,10 +27,10 @@ $R_{sense} = 0.47 \Omega$
 <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/6_30V_0_50A_0_47Ohm.jpg" width="400" >
 
 #### Constant Maximum Current, Different Voltage
-<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_1_00V.jpg" width="400" >
-<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_2_00V.jpg" width="400" >  
-<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_4_00V.jpg" width="400" >
-<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_6_30V.jpg" width="400" >  
+Column 1 | Column 2
+:-------------------------:|:-------------------------:
+<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_1_00V.jpg" width="400" >|<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_2_00V.jpg" width="400" >  
+<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_4_00V.jpg" width="400" >|<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_6_30V.jpg" width="400" >  
 
 
 ### Stall current
