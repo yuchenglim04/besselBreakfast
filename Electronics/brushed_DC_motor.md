@@ -5,7 +5,7 @@ Components used:
   For sensing current. Should be small enough to not have a large voltage drop, but larger than noise. Current can go up to 3 A.
 
 ### Start up current
-The power supply is turned on to give a voltage step. Current limiting feature of the power supply is used.
+The power supply is turned on abruptly to give a voltage step. Current limiting feature of the power supply is used.
 - Voltage affects the speed of rotation. Current affects the torque hence acceleration.
 - Motor starts from rest, accelerates until reaching constant speed. 
 - Current increases, reaches a maximum (need not be the limiting current), then decreases.
