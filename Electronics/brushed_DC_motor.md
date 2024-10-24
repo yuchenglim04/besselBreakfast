@@ -8,7 +8,7 @@ Components used:
 The power supply is turned on to give a voltage step. Current limiting feature of the power supply is used.
 - Voltage affects the speed of rotation. Current affects the torque hence acceleration.
 - Motor starts from rest, accelerates until reaching constant speed. 
-- Current increases, reaches a maximum, then decreases.
+- Current increases, reaches a maximum (need not be the limiting current), then decreases.
 
 #### Constant Voltage, Different Maximum Current
 $R_{sense} = 0.22 \Omega$  
@@ -28,4 +28,6 @@ $R_{sense} = 0.47 \Omega$
 <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_6_30V.jpg" width="400" >  
 
 
+### Stall current
+Stop the shaft from spinning. Notice how to current shoots up to the limiting current.
 
