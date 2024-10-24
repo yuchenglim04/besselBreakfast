@@ -16,6 +16,8 @@ The power supply is turned on abruptly to give a voltage step. Current limiting 
 - Current increases, reaches a maximum (need not be the limiting current), then decreases.
 
 #### Constant Voltage, Different Maximum Current
+The voltage across the motor is always 6.30 V. 
+
 $R_{sense} = 0.22 \Omega$  
 Column 1 | Column 2
 :-------------------------:|:-------------------------:
@@ -27,6 +29,8 @@ $R_{sense} = 0.47 \Omega$
 <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/6_30V_0_50A_0_47Ohm.jpg" width="400" >
 
 #### Constant Maximum Current, Different Voltage
+The 2.00 A here referes to the overcurrent protection. The actual maximum current that passess through the motor varies based on voltage. 
+
 Column 1 | Column 2
 :-------------------------:|:-------------------------:
 <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_1_00V.jpg" width="400" >|<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/2_00A_2_00V.jpg" width="400" >  
