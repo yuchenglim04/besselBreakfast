@@ -21,7 +21,7 @@ $R_{sense} = 0.22 \Omega$
 <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/6_30V_0_50A.jpg" width="200" >
 <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/6_30V_1_00A.jpg" width="200" >
 <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/6_30V_2_00A.jpg" width="400" >
-<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/6_30V_3_20A.jpg" width="400" >  
+<img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/brushed_DC_motor/6_30V_3_20A.jpg" width="400" >
 
 $R_{sense} = 0.47 \Omega$  
 
