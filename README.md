@@ -3,7 +3,7 @@
 This is an unofficial, and self-proclaimed an NTU Math and Physics club (cult?). But since Physics and Math together constitute the theory of everything, anything technical, elegant, ingenius and crazy fits here too.
 
 <figure>
-    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/bocchiThePenguin1.jpg" width="150" >
+    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/bocchiThePenguin1.jpg" width="150" >
     <figcaption> <i> Bocchi the Penguin </i> </figcaption>
 </figure>
 
