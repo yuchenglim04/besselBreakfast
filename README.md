@@ -21,7 +21,9 @@ We currently have no plans on creating a webpage. Instead, all articles will be 
 
 Anyone has a better name for the club? Your suggestion is highly appreciated. I just hope that the eccentric name of this repo isn't an infringment on trademark/IP... As for why Bocchi, I thought that it aligns with in the spirit of science: science is meant to be fun.
 
-### Getting started
+### Contributing:
+Start a github issues and state your interest, or come look for us: we're all SPMS students.
+
 Markdown is used to edit the documents. Here is a quick start tutorial for markdown [markdown_cheatsheet.md](https://github.com/yuchenglim04/bocchiTheHacker/blob/d71aa94b236edbfedc17d06f7a9a44dd56678ddb/markdown_cheatsheet.md)
 
 </br>
