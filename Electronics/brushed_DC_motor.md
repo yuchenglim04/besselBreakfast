@@ -38,5 +38,10 @@ Column 1 | Column 2
 
 
 ### Stall current
-Stop the shaft from spinning. Notice how to current shoots up to the limiting current.
+Stop the shaft from spinning. Notice how to current shoots up to the limiting current.  
 
+The videos below are the obervations made:  
+Motor Speed and Period of Waveform  
+https://youtube.com/shorts/lz7xKTs6UTo?feature=share  
+Motor Stall Current  
+https://youtube.com/shorts/scjDDkAgtSw?feature=share  
