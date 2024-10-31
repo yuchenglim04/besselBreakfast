@@ -1,4 +1,5 @@
 ## Background reading
+### Brushed motor:
 How Brushless Motor and ESC Work and How To Control them using Arduino  
 https://youtu.be/uOQk8SJso6Q  
 - 3 phase: 2 active, 1 inactive at a time
@@ -6,7 +7,21 @@ https://youtu.be/uOQk8SJso6Q
 - $K_V$ and RPM
 - BEC line: same way to control ESC as servo: 50Hz PWM, greater duty cycle, greater speed: 1ms to 2ms?
 - arming of the ESC: minimum value???
+Accompanying text:  
+https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
 
+PWM Calibration of ESC  
+https://ardupilot.org/copter/docs/esc-calibration.html
+
+### Arduino
+https://docs.arduino.cc/libraries/servo/  
+https://docs.arduino.cc/language-reference/en/functions/math/map/  
+https://docs.arduino.cc/software/ide-v2/tutorials/ide-v2-serial-monitor/  
+https://docs.arduino.cc/language-reference/en/structure/sketch/loop/  
+Arduino analog input max voltage?  
+
+
+### Misc
 How to measure $K_V$ of motor  
 https://fishpepper.de/2017/10/17/tutorial-how-to-measure-the-kv-of-a-brushless-motor/
 
