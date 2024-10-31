@@ -8,10 +8,14 @@ https://youtu.be/uOQk8SJso6Q
 - BEC line: same way to control ESC as servo: 50Hz PWM, greater duty cycle, greater speed: 1ms to 2ms?
 - arming of the ESC: minimum value???
 Accompanying text:  
-https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/
+https://howtomechatronics.com/tutorials/arduino/arduino-brushless-motor-control-tutorial-esc-bldc/  
 
 PWM Calibration of ESC  
-https://ardupilot.org/copter/docs/esc-calibration.html
+https://ardupilot.org/copter/docs/esc-calibration.html  
+
+Equations:  
+https://www.electricrcaircraftguy.com/2013/09/propeller-static-dynamic-thrust-equation.html  
+https://www.electricrcaircraftguy.com/2014/04/propeller-static-dynamic-thrust-equation-background.html  
 
 ### Arduino
 https://docs.arduino.cc/libraries/servo/  
