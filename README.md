@@ -1,4 +1,6 @@
-# bocchiTheHacker
+# Bocchi the Hacker has Bessel for Breakfast
+
+Musings of a fiziks freak.
 
 This is an unofficial, and self-proclaimed an NTU Math and Physics club (cult?). But since Physics and Math together constitute the theory of everything, anything technical, elegant, ingenius and crazy fits here too.
 
