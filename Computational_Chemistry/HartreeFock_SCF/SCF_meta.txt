@@ -1,0 +1,13 @@
+Machine accuracy: 1+10^-14 (not exactly! you should use base 2)
+
+https://joshuagoings.com/2017/04/28/integrals/
+https://chemistry.stackexchange.com/questions/15469/coefficients-and-parameters-for-contracted-gaussian-basis-sets
+https://chemistry.stackexchange.com/questions/98132/the-differences-between-integrals-evaluations-of-contracted-an-uncontracted-basis
+
+https://docs.sympy.org/latest/modules/utilities/index.html
+https://docs.sympy.org/latest/modules/utilities/lambdify.html
+https://pythoninchemistry.org/
+https://github.com/lmmentel/awesome-python-chemistry
+https://pubs.acs.org/doi/10.1021/acs.jchemed.9b01131
+https://people.chem.ucsb.edu/kahn/kalju/chem126/public/minim_pythn.html
+https://www.python.org/about/success/astra/
