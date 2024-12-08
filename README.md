@@ -1,13 +1,9 @@
-# Bocchi the Hacker has Bessel for Breakfast $\int^{\infty}_{0} J_0 (x) dx = 1$
+# Bessel for Breakfast $\int^{\infty}_{0} J_0 (x) dx = 1$
 
 Musings of a fiziks freak.
 
 This is an unofficial, and self-proclaimed an NTU Math and Physics club (cult?). But since Physics and Math together constitute the theory of everything, anything technical, elegant, ingenius and crazy fits here too.
 
-<figure>
-    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/bocchiThePenguin1.jpg" width="150" >
-    <figcaption> <i> Bocchi the Penguin </i> </figcaption>
-</figure>
 
 </br>
 </br>
@@ -30,11 +26,6 @@ Markdown is used to edit the documents. Here is a quick start tutorial for markd
 
 </br>
 </br>
-
-<figure>
-    <img src="https://github.com/yuchenglim04/bocchiTheHacker/blob/main/images/bocchiThePenguin2.jpg" width="200" >
-    <figcaption> <i> Bocchi the Penguin </i> </figcaption>
-</figure>
 
 
 
