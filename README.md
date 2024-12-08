@@ -1,4 +1,4 @@
-# Bocchi the Hacker has Bessel for Breakfast
+# Bocchi the Hacker has Bessel for Breakfast $\int^{\infty}_{0} J_0 (x) dx = 1$
 
 Musings of a fiziks freak.
 
