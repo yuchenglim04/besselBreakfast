@@ -2,6 +2,8 @@
 ```
 pip --version
 
+python -m pip install --upgrade pip
+
 pip install <package_name>
 
 py -m pip insitall pip==21.1.1
