@@ -1,4 +1,5 @@
 # pip
+```
 pip --version
 
 pip install <package_name>
@@ -14,13 +15,16 @@ pip list -v                               # list with file location
 pip install <package_name> --upgrade
 
 pip uninstall <package_name>
+```
 
-
-# 
+# Virtual Environment
+```
 pip install virtualenv   
 mkdir <folder_name>  
 cd <folder_name>  
 python<version> -m venv <virtual-environment-name>  
+```
+
 
 e.g.  
 ```python3.8 -m venv env```
