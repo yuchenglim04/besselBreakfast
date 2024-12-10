@@ -17,3 +17,18 @@ pip uninstall <package_name>
 
 
 # 
+pip install virtualenv   
+mkdir <folder_name>  
+cd <folder_name>  
+python<version> -m venv <virtual-environment-name>  
+
+e.g.  
+```python3.8 -m venv env```
+
+Activate:  
+```source env/bin/activate```
+
+Check that it is a virtual evironment  
+```pip list```
+
+ ```~ deactivate```
