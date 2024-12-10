@@ -38,3 +38,6 @@ Check that it is a virtual evironment
 ```pip list```
 
  ```~ deactivate```
+
+How do I remove/delete a virtualenv?  
+https://stackoverflow.com/questions/11005457/how-do-i-remove-delete-a-virtualenv
