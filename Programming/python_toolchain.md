@@ -21,10 +21,16 @@ pip uninstall <package_name>
 
 # Virtual Environment
 ```
-pip install virtualenv   
-mkdir <folder_name>  
-cd <folder_name>  
-python<version> -m venv <virtual-environment-name>  
+https://smuhabdullah.medium.com/how-to-use-different-python-versions-with-virtualenv-907b2998b16e
+install python 3.11 from https://www.python.org/downloads/release/python-3119/
+pip install virtualenv
+mkdir C:\pythonEnv
+cd  C:\pythonEnv
+virtualenv -p python3.12 myenv3.12
+virtualenv -p python3.11 myenv3.11
+myenv3.11\Scripts\activate
+
+
 ```
 
 
