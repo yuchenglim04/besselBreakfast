@@ -28,6 +28,14 @@ python<version> -m venv <virtual-environment-name>
 ```
 
 
+```
+pip install virtualenv   
+mkdir <folder_name>  
+cd <folder_name>  
+python<version> -m venv <virtual-environment-name>  
+```
+
+
 e.g.  
 ```python3.8 -m venv env```
 
