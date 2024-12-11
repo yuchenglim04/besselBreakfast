@@ -14,6 +14,8 @@ pip install
 pip install CSXCAD-0.6.3-cp311-cp311-win_amd64.whl
 pip install openEMS-0.0.36-cp311-cp311-win_amd64.whl
 
+setx OPENEMS_INSTALL_PATH C:\openEMS
+
 cd Tutorials
 #Test OpenEMS Simulation Program
 Bent_Patch_Antenna.py
