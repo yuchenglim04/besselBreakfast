@@ -20,20 +20,7 @@ pip uninstall <package_name>
 ```
 
 # Virtual Environment
-```
-https://smuhabdullah.medium.com/how-to-use-different-python-versions-with-virtualenv-907b2998b16e
-install python 3.11 from https://www.python.org/downloads/release/python-3119/
-pip install virtualenv
-mkdir C:\pythonEnv
-cd  C:\pythonEnv
-virtualenv -p python3.12 myenv3.12
-virtualenv -p python3.11 myenv3.11
-myenv3.11\Scripts\activate
-
-
-```
-
-
+### Approach 1:
 ```
 pip install virtualenv   
 mkdir <folder_name>  
@@ -55,3 +42,23 @@ Check that it is a virtual evironment
 
 How do I remove/delete a virtualenv?  
 https://stackoverflow.com/questions/11005457/how-do-i-remove-delete-a-virtualenv
+
+
+### Approach 2:
+https://smuhabdullah.medium.com/how-to-use-different-python-versions-with-virtualenv-907b2998b16e
+
+install python 3.11 from https://www.python.org/downloads/release/python-3119/
+
+```
+pip install virtualenv
+
+mkdir C:\pythonEnv
+
+cd  C:\pythonEnv
+
+virtualenv -p python3.12 myenv3.12
+
+virtualenv -p python3.11 myenv3.11
+
+myenv3.11\Scripts\activate
+```
