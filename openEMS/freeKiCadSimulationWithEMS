@@ -1,1 +1,18 @@
+#free KiCad Wave Propagation Simulation with openEMS
+https://drive.google.com/drive/folders/14lhucroRvFhTZuko30cLIfptwJHfbFd4
 
+```
+https://github.com/FreeCAD/FreeCAD/releases?page=1
+https://github.com/FreeCAD/FreeCAD/releases/tag/0.21.2
+https://github.com/LubomirJagos/FreeCAD-OpenEMS-Export
+1) Download FreeCad 0.12.2 instead of 1.0.0 and FreeCAD-OpenEMS-Export
+2) Move macro file from C:\free KiCad Wave Propagation Simulation with openEMS\FreeCAD-OpenEMS-Export-Master\FreeCAD-OpenEMS-Export\FreeCAD-OpenEMS-Export.FCMacro
+to folder one level up like "C:\free KiCad Wave Propagation Simulation with openEMS\FreeCAD-OpenEMS-Export-Master\FreeCAD-OpenEMS-Export.FCMacro"
+3) Copy Macro file FreeCAD-OpenEMS-Export.FCMacro and folder FreeCAD-OpenEMS-Export to the C:\Users\uchen_avctbcy\AppData\Roaming\FreeCAD\Macro
+4) Run FreeCad and new freecad file. Then run macro from  FreeCAD-OpenEMS-Export.FCMacro but the button KiCAD PCB Import Tool still disabled.
+5) Run again macro until KiCAD PCB Import Tool buton shown and click on it.
+6) Select "C:\free KiCad Wave Propagation Simulation with openEMS\Kicad-3D-wave-propagation\_kicad-layout\trace.kicad_pcb" and click on Import KICAD PCB
+7) Closed Macro creator
+
+
+```
