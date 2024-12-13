@@ -1,3 +1,3 @@
 # QUA_NTU_M
 
-QUA**NTU**M
+<\h1> QUA**NTU**M <\h1>
