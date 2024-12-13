@@ -1,1 +1,1 @@
-$\huge QUA\bf{NTU}M$
+{\huge Hello} 
