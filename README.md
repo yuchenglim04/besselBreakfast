@@ -1,1 +1,1 @@
-# QUA $ntu$ M
+# $\text{QUA}ntu\text{M}$
