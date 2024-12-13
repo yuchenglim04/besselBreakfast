@@ -1,1 +1,1 @@
-# $QUA\bf{NTU}M$
+$\huge QUA\bf{NTU}M$
