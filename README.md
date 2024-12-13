@@ -1,1 +1,1 @@
-# $\bf hello$
+# $\bf \text{hello}$
