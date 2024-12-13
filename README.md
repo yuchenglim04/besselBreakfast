@@ -1,1 +1,1 @@
-# $\text{QUA}ntu\text{M}$
+# $\text{qua}NTU\text{m}$
