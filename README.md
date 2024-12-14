@@ -1,9 +1,10 @@
- ${\HUGE Bye} {\huge Hello} {\Huge goodbye} {\tiny world}$ hello world
+$\huge QuaNTUm: small steps to reach the stars$
 
-# $$\text{A} BC \text{D}$$
+What happens when:
 
-${\huge Hello} {\textbf yay} {\huge Bye}$
+a Mathematician  
+a Physicist  
+a Computer Freak  
+an Electronics Guru  
 
-$\bf hello$
-
-$\huge QuaNTUm$
+are placed together in the same lab?
