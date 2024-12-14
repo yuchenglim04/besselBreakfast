@@ -2,4 +2,4 @@
 
 # $$\text{A} BC \text{D}$$
 
-${\huge Hello} \bf{yay} {\huge Bye}$
+${\huge Hello} {\bf yay} {\huge Bye}$
