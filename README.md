@@ -1,4 +1,4 @@
-$\huge QuaNTUm: small steps to reach the stars$
+$\huge QuaNTUm: small \ steps \ to \ reach \ the \ stars$
 
 What happens when:
 
