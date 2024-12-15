@@ -9,3 +9,8 @@ an Electronics Guru
 a Hardware Specialist
 
 are placed together in the same lab?
+
+
+
+Math Pastebin for sharing \LaTeX equations  
+https://mathb.in/
