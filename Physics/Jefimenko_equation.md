@@ -19,15 +19,13 @@ $$\mathbf{J}(\mathbf{r}, t) = q \ \delta^{3}(\mathbf{r} - \mathbf{w}(t)) \mathbf
 $$\mathbf{R} (\mathbf{r}_{field} \ , \mathbf{r}_{charge})= \mathbf{r}_{field} \ - \mathbf{r}_{charge}$$
 $$\pmb{\beta} = \mathbf{\dot w}/c$$
 
-$$
+```math
 \begin{align*}
 V(\mathbf{r}, t) &= \frac{1}{4\pi\epsilon_0}\int_{\mathbb{R^3}} \frac{\rho(\mathbf{r'},t_r)}{R}d\tau'\\
-
 &= \frac{1}{4\pi\epsilon_0}\int^{\infty}_{-\infty} \frac{q\ \delta(t_r - t + |\mathbf{r} - \mathbf{w}(t_r)|/c)}{R(\mathbf{r}, \mathbf{w}(t_r))} dt_r \\
-
 &=\frac{1}{4\pi\epsilon_0} \frac{q}{R\ (1-\pmb{\beta}\ \cdot \mathbf{\widehat{R}})}
 \end{align*}
-$$
+```
 
 Essentially, the volume integral reduces to a path integral because the density is non-zero at some point in time only along the path. The integrand reduces further to a delta function. So we're changing variables from 3D Cartesian coordinates to a single parameter, here the retarded time.  
 
