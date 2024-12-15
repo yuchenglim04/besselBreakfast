@@ -8,13 +8,13 @@
 \partial
 \frac{}{}
 \cdot
-\cross
 \times
 f'
 \sum
 \prod
 \hat
 \widehat
+\approx
 ```
 
 
