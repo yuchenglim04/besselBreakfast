@@ -1,7 +1,10 @@
 ```math
 \begin{align*}
-&= \\
-&=
+V(\mathbf{r}, t) &= \frac{1}{4\pi\epsilon_0}\int_{\mathbb{R^3}} \frac{\rho(\mathbf{r'},t_r)}{R}d\tau'\\
+
+&= \frac{1}{4\pi\epsilon_0}\int^{\infty}_{-\infty} \frac{q\ \delta(t_r - t + |\mathbf{r} - \mathbf{w}(t_r)|/c)}{R(\mathbf{r}, \mathbf{w}(t_r))} dt_r \\
+
+&=\frac{1}{4\pi\epsilon_0} \frac{q}{R\ (1-\pmb{\beta}\ \cdot \mathbf{\widehat{R}})}
 \end{align*}
 ```
 
