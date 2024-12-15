@@ -1,6 +1,8 @@
 ```
 \nabla
 \mathbf
+\boldsymbol
+\pmb
 \dot
 \ddot
 \partial
