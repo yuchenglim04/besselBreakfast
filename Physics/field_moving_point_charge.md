@@ -12,5 +12,5 @@ Fields by direct differentiaion of Lienard-Wiechert potential in integral form (
 
 Lienard-Wiechert potential via direct evaluation of retarded integral with spatial delta function integrand, and change of variables using Jacobian
 
-
+https://mathb.in/80448
 
