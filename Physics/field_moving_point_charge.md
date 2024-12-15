@@ -10,7 +10,7 @@ Fields from Jefimenko's equation and time delta function
 
 Fields by direct differentiaion of Lienard-Wiechert potential in integral form (delta function integrand)
 
-Lienard-Wiechert potential via direct evaluation of retarded integral with spatial delta function integrand, and change of variables 
+Lienard-Wiechert potential via direct evaluation of retarded integral with spatial delta function integrand, and change of variables using Jacobian
 
 
 
