@@ -12,5 +12,5 @@ are placed together in the same lab?
 
 
 
-Math Pastebin for sharing $\LaTeX$ equations  \LaTeX  
+Math Pastebin for sharing $\rm \LaTeX$ equations    
 https://mathb.in/
