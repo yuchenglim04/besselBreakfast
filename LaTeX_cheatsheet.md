@@ -1,4 +1,17 @@
 ```
+\mathbf
+\dot
+\ddot
+\partial
+\frac{}{}
+\cdot
+\cross
+\times
+```
+
+
+
+```
 \LaTeX
 \rm
 \text{}
