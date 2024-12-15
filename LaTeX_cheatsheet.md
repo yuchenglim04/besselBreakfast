@@ -1,4 +1,5 @@
 ```
+\nabla
 \mathbf
 \dot
 \ddot
