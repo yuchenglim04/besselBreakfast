@@ -11,6 +11,8 @@
 f'
 \sum
 \prod
+\hat
+\widehat
 ```
 
 
