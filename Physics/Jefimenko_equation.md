@@ -5,13 +5,8 @@ How to evaluate $\mathbf{E}$, $\mathbf{B}$ directly from Jefimenko's equations??
 &\mathbf{E} (\mathbf{r}_{field} , t)\\
 &= \frac{1}{4 \pi \epsilon_0} \int \left[ \frac{\rho(\mathbf{r'}, t_r)}{R^2} \widehat{\mathbf R} + \frac{\dot \rho (\mathbf{r'}, t_r)}{c R} \widehat{\mathbf R} - \frac{\mathbf{\dot J}(\mathbf{r'},t_r)}{c^2 R} \right] d\tau' \\
 &= \frac{1}{4 \pi \epsilon_0} \int \left[ \frac{\rho(\mathbf{r'}, t_r)}{R^2} \widehat{\mathbf R} + \frac{\partial_t \rho(\mathbf{r}, t) |_{\mathbf{r} = \mathbf{r'}, t = t_r}}{c R(\mathbf{r}_{field}, \mathbf{r'})} \widehat{\mathbf R} - \frac{\partial_t \mathbf{J} (\mathbf r,t)|_{\mathbf{r} = \mathbf{r'}, t = t_r}}{c^2 R(\mathbf{r}_{field}, \mathbf{r'})} \right] d\tau' \\
-&= \frac{1}{4 \pi \epsilon_0} \int \left[ \frac{\rho(\mathbf{r'}, t_r)}{R^2} \widehat{\mathbf R}
-+ \frac{1}{c}\frac{\partial}{\partial t} \left( \frac{\rho(\mathbf{r}, t) }{R(\mathbf{r}_{field},\mathbf{r})} \widehat{\mathbf R} \right) \Biggm |_{\mathbf{r} = \mathbf{r'}, t = t_r}
-- \frac{1}{c^2}\frac{\partial}{\partial t} \left( \frac{\mathbf{J}(\mathbf{r},t)}{R(\mathrm{r}_{field}, \mathbf{r})} \right)\Biggm |_{\mathbf{r} = \mathbf{r'}, t = t_r}\right] d\tau'\\
-&= \frac{1}{4 \pi \epsilon_0} \int \left[
-\frac{\rho(\mathbf{r'}, t_r)}{R^2} \widehat{\mathbf R} +
-\frac{1}{c} \frac{\partial}{\partial t} \left( \frac{\rho(\mathbf{r'}, t_r(t,\mathbf{r'})) }{R(\mathbf{r}_{field},\mathbf{r'})} \widehat{\mathbf R} \right)
-- \frac{1}{c^2}\frac{\partial}{\partial t} \left( \frac{\mathbf{J}(\mathbf{r'},t_r(t,\mathbf{r'}))}{R(\mathrm{r}_{field}, \mathbf{r'})} \right)\right] d\tau'
+&= \frac{1}{4 \pi \epsilon_0} \int \left[ \frac{\rho(\mathbf{r'}, t_r)}{R^2} \widehat{\mathbf R} + \frac{1}{c}\frac{\partial}{\partial t} \left( \frac{\rho(\mathbf{r}, t) }{R(\mathbf{r}_{field},\mathbf{r})} \widehat{\mathbf R} \right) \Biggm |_{\mathbf{r} = \mathbf{r'}, t = t_r} - \frac{1}{c^2}\frac{\partial}{\partial t} \left( \frac{\mathbf{J}(\mathbf{r},t)}{R(\mathrm{r}_{field}, \mathbf{r})} \right)\Biggm |_{\mathbf{r} = \mathbf{r'}, t = t_r}\right] d\tau'\\
+&= \frac{1}{4 \pi \epsilon_0} \int \left[ \frac{\rho(\mathbf{r'}, t_r)}{R^2} \widehat{\mathbf R} + \frac{1}{c} \frac{\partial}{\partial t} \left( \frac{\rho(\mathbf{r'}, t_r(t,\mathbf{r'})) }{R(\mathbf{r}_{field},\mathbf{r'})} \widehat{\mathbf R} \right) - \frac{1}{c^2}\frac{\partial}{\partial t} \left( \frac{\mathbf{J}(\mathbf{r'},t_r(t,\mathbf{r'}))}{R(\mathrm{r}_{field}, \mathbf{r'})} \right)\right] d\tau'
 \end{align*}
 ```
 
