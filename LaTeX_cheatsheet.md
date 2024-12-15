@@ -8,6 +8,7 @@
 \cdot
 \cross
 \times
+f'
 ```
 
 
