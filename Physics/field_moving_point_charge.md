@@ -23,6 +23,10 @@ Lienard-Wiechert potential via direct evaluation of retarded integral with spati
 
 Lienard-Wiechert potential via special relativity
 
+> Deriving Heaviside-Feynman formula for the electric field of an arbitrarily moving charge from Lienard-Wiechert potential
+https://physics.stackexchange.com/questions/139238/deriving-heaviside-feynman-formula-for-the-electric-field-of-an-arbitrarily-movi
+
+
 <br>
 <br>
   
