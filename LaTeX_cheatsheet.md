@@ -5,3 +5,15 @@
 \textbf{}
 \textit{}
 ```
+
+
+
+```
+\begin{align*} 
+&= \\ 
+&=
+\end{align*}
+```
+
+
+
