@@ -23,5 +23,7 @@ Lienard-Wiechert potential via direct evaluation of retarded integral with spati
 
 Lienard-Wiechert potential via special relativity
 
-
+<br>
+<br>
+  
 With blood, sweat and tears (and some heroic algebra), it will all magically work out :)
