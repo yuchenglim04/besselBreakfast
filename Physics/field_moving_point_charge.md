@@ -19,14 +19,18 @@ Jackson:
 
 
 
-Lienard-Wiechert potential via direct evaluation of retarded integral with spatial delta function integrand, and change of variables using Jacobian
+
 
 Lienard-Wiechert potential via special relativity
+
+<br>
 
 > Deriving Heaviside-Feynman formula for the electric field of an arbitrarily moving charge from Lienard-Wiechert potential
 https://physics.stackexchange.com/questions/139238/deriving-heaviside-feynman-formula-for-the-electric-field-of-an-arbitrarily-movi
 
-
+- Lienard-Wiechert potential via direct evaluation of retarded integral with spatial delta function integrand, and change of variables using Jacobian
+- Heaviside-Feynmann form of electric field, from Lienard-Wiechert potential
+  
 <br>
 <br>
   
