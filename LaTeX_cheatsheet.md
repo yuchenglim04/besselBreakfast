@@ -1,6 +1,7 @@
 ```
 \nabla
 \mathbf
+\mathbb
 \boldsymbol
 \pmb
 \dot
