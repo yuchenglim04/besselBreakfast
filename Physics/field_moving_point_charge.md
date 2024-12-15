@@ -1,7 +1,7 @@
 Many ways of deriving the field of a moving point charge:
 
 Griffiths:  
-14/12/2024
+14/12/2024  
 Lienard-Wiechert potential from intuition  
 Fields by direct differentiaion of Lienard-Wiechert potential
 
