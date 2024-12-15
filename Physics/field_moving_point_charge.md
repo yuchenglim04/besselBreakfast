@@ -10,7 +10,8 @@ Jerry Marion:
 Lienard-Wiechert potential from time delta function  
 15/12/2024  
 Fields from Jefimenko's equation and time delta function  
-https://mathb.in/80448
+https://mathb.in/80448  
+Heaviside-Feynmann equation from Jefimenko form of the electric field
 
 14/12/2024  
 Fields by direct differentiaion of Lienard-Wiechert potential in integral form (delta function integrand)
@@ -29,8 +30,9 @@ Lienard-Wiechert potential via special relativity
 https://physics.stackexchange.com/questions/139238/deriving-heaviside-feynman-formula-for-the-electric-field-of-an-arbitrarily-movi
 
 - Lienard-Wiechert potential via direct evaluation of retarded integral with spatial delta function integrand, and change of variables using Jacobian  
-  14/12/2024  
-- Heaviside-Feynmann form of electric field, from Lienard-Wiechert potential
+  15/12/2024  
+- Heaviside-Feynmann equation of electric field, from Lienard-Wiechert potential
+
   
 <br>
 <br>
