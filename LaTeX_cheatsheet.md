@@ -9,6 +9,8 @@
 \cross
 \times
 f'
+\sum
+\prod
 ```
 
 
