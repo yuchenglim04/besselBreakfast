@@ -1,6 +1,6 @@
 ```math
 \begin{align*}
-&=
+&= \\
 &=
 \end{align*}
 ```
