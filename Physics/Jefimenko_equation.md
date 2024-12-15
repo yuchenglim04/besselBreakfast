@@ -1,6 +1,6 @@
 How to evaluate $\mathbf{E}$, $\mathbf{B}$ directly from Jefimenko's equations??? Is this line of reasoning correct? From Jerry Marion's book
 
-$$
+```math
 \begin{align*}
 &\mathbf{E} (\mathbf{r}_{field} , t)\\
 
@@ -24,7 +24,7 @@ $$
 - \frac{1}{c^2}\frac{\partial}{\partial t} \left( \frac{\mathbf{J}(\mathbf{r'},t_r(t,\mathbf{r'}))}{R(\mathrm{r}_{field}, \mathbf{r'})} \right)\right] d\tau'
 \end{align*}
 
-$$
+```
 
 how to do the integral: given a $d\tau'$ at $\mathbf{r'}$, we evaluate $t_r = t - |\mathbf{r} - \mathbf{r'}|/c$, i.e. $\mathbf{r'}$ is the independent variable, $t_r$ depends on $\mathbf{r'}$.
 
