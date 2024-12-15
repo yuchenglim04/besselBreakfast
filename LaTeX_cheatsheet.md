@@ -1,3 +1,10 @@
+```math
+\begin{align*}
+&=
+&=
+\end{align*}
+```
+
 ```
 \nabla
 \mathbf
