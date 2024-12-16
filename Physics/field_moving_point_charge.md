@@ -5,19 +5,17 @@ Griffiths:
 Lienard-Wiechert potential from intuition  
 Fields by direct differentiaion of Lienard-Wiechert potential
 
-Jerry Marion:  
+Jerry Marion/Jackson (read both! Jackson skips the calculations, Marion gives no ideas as to how to go from Jefimenko to Field):  
 14/12/2024  
 Lienard-Wiechert potential from time delta function  
 15/12/2024  
 Fields from Jefimenko's equation and time delta function  
 https://mathb.in/80448  
+15/12/2024  
 Heaviside-Feynmann equation from Jefimenko form of the electric field
 
 14/12/2024  
 Fields by direct differentiaion of Lienard-Wiechert potential in integral form (delta function integrand)
-
-Jackson:  
-
 
 
 
