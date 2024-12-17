@@ -3,7 +3,7 @@ One of us is doing quantum optics right now. Below are a few pointers that have 
 Mathematical difficulties:  
 https://physics.stackexchange.com/questions/105729/principal-value-of-1-x-and-few-questions-about-complex-analysis-in-peskins-qf
 
-Quantum Optical Problems?  
+Categorizing Quantum Optical Problems?  
 https://physics.stackexchange.com/questions/623586/full-quantum-model-for-spontaneous-emission  
 https://physics.stackexchange.com/questions/86288/what-are-the-strong-ultrastrong-and-deep-strong-coupling-regimes-of-the-r  
 https://physics.stackexchange.com/questions/513449/what-is-qed-about-cavity-qed?noredirect=1&lq=1  
