@@ -13,13 +13,11 @@ are placed together in the same lab? Perhaps space travel could be a reality. Bu
 
 _________________________________________
 
-</br>
 
 Math Pastebin for sharing $\rm \LaTeX$ equations    
 https://mathb.in/
 
-</br>
 ___________________________________________
 
-</br>
+
 WebLatex has been integrated here. Create workspace to use. However, beware of Codespace core hours and storage!
