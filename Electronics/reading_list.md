@@ -1,8 +1,8 @@
 Learning electronics is all about **comparing** oscilloscope traces and circuit diagrams. Intuition!
 
-It's useful to think in terms of "problem" and "solution"
+It's useful to think in terms of "problem" and "solution", and to summarize papers as a biiiiggg list of problems.
 
-Below is a list of application notes some of us have read and want to read. Happy reading!
+Below is a list of application notes some of us have read and plan to read. Happy reading!
 
 # "Application Notes"
 20/12/2024  
