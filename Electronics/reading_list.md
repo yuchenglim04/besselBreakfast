@@ -7,7 +7,7 @@ Below is a list of application notes some of us have read and want to read. Happ
 # "Application Notes"
 20/12/2024  
 - (Application Report TI) Importance of Input Bias Current Return Paths in Instrumentation Amplifier Applications  
-- (Application Note Renesas) Operational Amplifiers How to Bias Op-Amps Correctly  
+- (Application Note Renesas) Operational Amplifiers: How to Bias Op-Amps Correctly  
 
 19/12/24  
 - (AN-1368) Ferrite Bead Demystified   
