@@ -6,6 +6,8 @@ Below is a list of application notes some of us have read or plan to read. Happy
 
 # "Application Notes"
 21/12/2024
+- (datasheet) Evaluation Board for the ADP2119/ADP2120 Step-Down Regulator
+  - Evaluation boards also come with schematics!
 - (Predictable Designs) From Arduino Prototype to Mass Production
 - (Instructables) DIY Arduino UNO | How to Make Your Own Arduino Uno Board
   - Arduino has open-source schematic!
