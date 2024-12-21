@@ -6,6 +6,7 @@ Below is a list of application notes some of us have read or plan to read. Happy
 
 # "Application Notes"
 21/12/2024
+- (AllAboutCircuits) Safety Capacitors First: Class-X and Class-Y Capacitors
 - (ElectronicDesign) 16 Ways to Design a Switch-Mode Power Supply
 - (Onsemi Reference Manual) Switch-Mode Power Supply
 - (Maxim AN 4087) An Introduction to Switch-Mode Power Supplies
