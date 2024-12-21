@@ -5,6 +5,11 @@ It's useful to think in terms of "problem" and "solution", and to summarize pape
 Below is a list of application notes some of us have read or plan to read. Happy reading!
 
 # "Application Notes"
+21/12/2024
+(ElectronicDesign) 16 Ways to Design a Switch-Mode Power Supply
+(Onsemi Reference Manual) Switch-Mode Power Supply
+(Maxim AN 4087) An Introduction to Switch-Mode Power Supplies
+
 20/12/2024  
 - (Application Report TI) Importance of Input Bias Current Return Paths in Instrumentation Amplifier Applications  
 - (Application Note Renesas) Operational Amplifiers: How to Bias Op-Amps Correctly  
