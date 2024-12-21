@@ -16,5 +16,5 @@ Frequency generator's model:
 
 And compare with what you are trying to measure:
 - frequencies beyond bandwidth are severely attenuated
-- x10 will make measured data more noisy than it really is
+- x10 will introduce more noise to your measurement
 - x1 might load the circuit
