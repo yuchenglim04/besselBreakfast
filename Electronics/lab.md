@@ -10,11 +10,11 @@ oscilloscope's setup:
 
 Surrounding electronics or electrical appliances hence sources of noise!
 
+Frequency generator's model:
+- internal impedance
+- bandwidth
+
 And compare with what you are trying to measure:
 - frequencies beyond bandwidth are severely attenuated
 - x10 will make measured data more noisy than it really is
 - x1 might load the circuit
-
-Frequency generator's model:
-- internal impedance
-- bandwidth
