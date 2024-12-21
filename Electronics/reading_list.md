@@ -8,6 +8,7 @@ Below is a list of application notes some of us have read or plan to read. Happy
 21/12/2024
 - (Predictable Designs) From Arduino Prototype to Mass Production
 - (Instructables) DIY Arduino UNO | How to Make Your Own Arduino Uno Board
+  - Arduino has open-source schematic!
 - (AllAboutCircuits) Safety Capacitors First: Class-X and Class-Y Capacitors
 - (ElectronicDesign) 16 Ways to Design a Switch-Mode Power Supply
 - (Onsemi Reference Manual) Switch-Mode Power Supply
