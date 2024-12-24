@@ -10,3 +10,10 @@ Modelling inverting amplifier:
 
 Misc:
 - [Considerations in resistor sizing for op-amp circuits?](https://electronics.stackexchange.com/questions/599506/considerations-in-resistor-sizing-for-op-amp-circuits)
+
+
+Bias current:  
+- (TI Application Report) Importance of Input Bias Current Return Paths in Instrumentation Amplifier Applications
+- (Renesas Application Note) Operational Amplifiers: How to Bias Op-Amps Correctly
+- (TI Technical Article) What You Need to Know about Input Bias Current - and Why
+
