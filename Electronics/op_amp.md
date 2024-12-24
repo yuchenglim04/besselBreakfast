@@ -13,7 +13,9 @@ Misc:
 
 
 Bias current:  
-- (TI Application Report) Importance of Input Bias Current Return Paths in Instrumentation Amplifier Applications
-- (Renesas Application Note) Operational Amplifiers: How to Bias Op-Amps Correctly
+- (TI App Report) Importance of Input Bias Current Return Paths in Instrumentation Amplifier Applications
+- (Renesas App Note) Operational Amplifiers: How to Bias Op-Amps Correctly
 - (TI Technical Article) What You Need to Know about Input Bias Current - and Why
 
+Input, output impedance:
+- (Rohm Semicon App Note) Measurement Method for Input and Output Impedance of Op- Amp
