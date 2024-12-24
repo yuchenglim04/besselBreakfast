@@ -7,4 +7,6 @@ Modelling inverting amplifier:
 - [Resistor Load Effect on inverting op-amp](https://electronics.stackexchange.com/questions/229395/resistor-load-effect-on-inverting-op-amp)
 - (TI Analog Engineer's Circuit) Transimpedance amplifier with T-network circuit
 - (TI Analog Engineer's Circuit) Inverting Amplifier With T-Network Feedback Circuit
-https://electronics.stackexchange.com/questions/599506/considerations-in-resistor-sizing-for-op-amp-circuits
+
+Misc:
+- [Considerations in resistor sizing for op-amp circuits?](https://electronics.stackexchange.com/questions/599506/considerations-in-resistor-sizing-for-op-amp-circuits)
