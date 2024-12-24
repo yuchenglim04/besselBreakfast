@@ -6,3 +6,4 @@ Big lists of useful things:
 - [Analog Devices Resource Library](https://www.analog.com/en/resources.html)
 - [TI Analog Design Cookbook/Library](https://www.ti.com/design-development/analog-circuits.html)
 - [GeekZone Learning how to build preamps](https://gearspace.com/board/geekzone/865500-learning-how-build-preamps.html)
+- [Differences between preamplifier, instrumentation amplifier and LNA](https://electronics.stackexchange.com/questions/176421/differences-between-preamplifier-instrumentation-amplifier-and-lna)
