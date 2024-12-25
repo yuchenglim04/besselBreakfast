@@ -1,0 +1,1 @@
+DSO2D10 100MHz 1GSa/s
