@@ -1,5 +1,7 @@
 DSO2D10: 100MHz 1GSa/s DSO + 25MHz 200MSa/s Internal Waveform Generator
 
+25/12/2024
+
 Yellow trace: x1  
 Green trace: x10  
 
