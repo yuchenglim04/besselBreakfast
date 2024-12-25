@@ -5,7 +5,7 @@ Green trace: x10
 
 both probes are connected in parallel to the same signal generator (the 'internal' signal generator of the scope), at the same time 
 
-'comments'                  | 'oscilloscope trace'
+comments                  |         oscilloscope trace
 :-------------------------:|:-------------------------:
 The x10 trace is noisier | ![](https://github.com/yuchenglim04/besselBreakfast/blob/main/images/scope_prac/low_dso_01_01_00_06_28.jpg)
 At low frequency, both probes give identical results | ![](https://github.com/yuchenglim04/besselBreakfast/blob/main/images/scope_prac/low_dso_01_01_00_11_19.jpg)
