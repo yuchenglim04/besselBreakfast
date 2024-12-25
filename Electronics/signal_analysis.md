@@ -1,4 +1,6 @@
-The very many ways to think about FFT:
+Reinventing the FFT:
+
+First, familiarise with the 2, 4, 8 - [DFT matrix](https://en.wikipedia.org/wiki/DFT_matrix)
 
 YT Videos:
 - The Fast Fourier Transform Algorithm, Steve Brunton
