@@ -1,4 +1,4 @@
-DSO2D10 100MHz 1GSa/s
+DSO2D10: 100MHz 1GSa/s DSO + 25MHz 200MSa/s Internal Waveform Generator
 
 Yellow trace: x1  
 Green trace: x10  
