@@ -3,7 +3,7 @@ Reinventing the FFT:
 First, familiarise with the 2, 4, 8 - [DFT matrix](https://en.wikipedia.org/wiki/DFT_matrix)
 
 YT Videos:
-- 3. Divide & Conquer: FFT, MIT
+- \3. Divide & Conquer: FFT, MIT
 - The Fast Fourier Transform Algorithm, Steve Brunton
 - The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever?
 - FFT Example: Unraveling the Recursion, Reducible
