@@ -1,3 +1,4 @@
+(25/12/2024)  
 Reinventing the FFT:
 
 First, familiarise with the 2, 4, 8 - [DFT matrix](https://en.wikipedia.org/wiki/DFT_matrix)
