@@ -18,10 +18,17 @@ Swapping columns, rows? Perhaps All even columns, then odd columns?
 - [Swapping columns in a numpy array?](https://stackoverflow.com/questions/4857927/swapping-columns-in-a-numpy-array/)
 
 (11/2024)
-- [ipywidgets, how to change slider's value display precision](https://stackoverflow.com/questions/43142019/ipywidgets-how-to-change-sliders-value-display-precision)
 - [Pretty-print a NumPy array without scientific notation and with given precision
 ](https://stackoverflow.com/questions/2891790/pretty-print-a-numpy-array-without-scientific-notation-and-with-given-precision)
 
+9/2024
+- [subsampling every nth entry in a numpy array](https://stackoverflow.com/questions/25876640/subsampling-every-nth-entry-in-a-numpy-array)
+- [How do I remove NaN values from a NumPy array?
+](https://stackoverflow.com/questions/11620914/how-do-i-remove-nan-values-from-a-numpy-array)
+
+## Widgets and more
+(11/2024)
+- [ipywidgets, how to change slider's value display precision](https://stackoverflow.com/questions/43142019/ipywidgets-how-to-change-sliders-value-display-precision)
 
 ## General references
 https://www.freecodecamp.org/news/file-handling-in-python/
