@@ -22,6 +22,7 @@ Swapping columns, rows? Perhaps All even columns, then odd columns?
 - [Swapping columns in a numpy array?](https://stackoverflow.com/questions/4857927/swapping-columns-in-a-numpy-array/)
 
 (11/2024)
+- [numpy print matrix one row one line](https://stackoverflow.com/questions/56204072/numpy-print-matrix-one-row-one-line?rq=3)
 - [Pretty-print a NumPy array without scientific notation and with given precision
 ](https://stackoverflow.com/questions/2891790/pretty-print-a-numpy-array-without-scientific-notation-and-with-given-precision)
 
