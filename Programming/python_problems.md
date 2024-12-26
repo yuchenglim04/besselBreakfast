@@ -17,6 +17,10 @@ Swapping columns, rows? Perhaps All even columns, then odd columns?
 - [Swap slices of Numpy arrays](https://stackoverflow.com/questions/14933577/swap-slices-of-numpy-arrays)
 - [Swapping columns in a numpy array?](https://stackoverflow.com/questions/4857927/swapping-columns-in-a-numpy-array/)
 
+(11/2024)
+- [ipywidgets, how to change slider's value display precision](https://stackoverflow.com/questions/43142019/ipywidgets-how-to-change-sliders-value-display-precision)
+- [Pretty-print a NumPy array without scientific notation and with given precision
+](https://stackoverflow.com/questions/2891790/pretty-print-a-numpy-array-without-scientific-notation-and-with-given-precision)
 
 
 ## General references
