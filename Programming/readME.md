@@ -1,1 +1,3 @@
-[Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)
+- [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)
+- [Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.](https://github.com/cyberglot/awesome-answers?tab=readme-ov-file#license)
+- [The list of awesome Stackoverflow's answers and questions](https://github.com/dangsonbk/awesome_stackoverflow)
