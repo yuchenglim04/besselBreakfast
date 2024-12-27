@@ -1,7 +1,7 @@
 # Autocorrelation 27/12/2024
 
 
-' '                     |           ' '
+'a '                     |           'b '
 :-------------------------:|:-------------------------:
 ![](../images/autocorrelation_27_12_24/uncentred_wave.png) | ![](../images/autocorrelation_27_12_24/centred_wave.png)
 
