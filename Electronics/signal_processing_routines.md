@@ -3,17 +3,18 @@ Here is a big list of useful, small code snippets. Just copy, paste to run! Only
 **Ipywidgets**
 ```
 import ipywidgets as widgets
-
+```
+```
 @widgets.interact( \
     left_cursor = widgets.FloatSlider(value = -5, min=-6, max=5, step=0.01, readout_format='.2f'), \
     right_cursor = widgets.FloatSlider(value = 5, min=-6, max=5, step=0.01, readout_format='.2f'), \
     i = (0,28), cursor_height=(0, 15))
 
 def plot_wave(left_cursor, right_cursor, i = 0, cursor_height = 14):
-
+```
+```
 @widgets.interact(i=widgets.IntSlider(min=0, max=28, step=1, value=1))
 def f(i):
-
 ```
 
 **Simple moving average, n points**
