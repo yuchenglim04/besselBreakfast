@@ -10,7 +10,8 @@ import ipywidgets as widgets
 
 def plot_wave(left_cursor, right_cursor, i = 0, cursor_height = 14):
 
-
+@widgets.interact(i=widgets.IntSlider(min=0, max=28, step=1, value=1))
+def f(i):
 
 ```
 
