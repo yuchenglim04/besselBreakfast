@@ -12,7 +12,7 @@ are placed together in the same lab? Perhaps space travel could be a reality. Bu
 
 What's the best way to learn Bessel functions then?
 
-*Picture???*
+*A cheatsheet on the wall*
 
 _________________________________________
 
