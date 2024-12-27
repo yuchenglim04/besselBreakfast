@@ -9,7 +9,8 @@ for i in range(n):
     smoothed_wave += raw_wave[i:raw_wave.shape[0]-(n-1)+i]
 
 smoothed_wave = smoothed_wave/n
-
+```
+```
 n = 3
 
 smoothed_wave = np.copy(autocorrelation[n-1:])
