@@ -2,7 +2,8 @@ Here is a big list of useful, small code snippets. Just copy, paste to run! Only
 
 **Simple moving average, n points**
 
-P.S. the array notation [:-j] present problems when j is 0.
+P.S. the array notation [:-j] present problems when j is 0.  
+P.S.S. a phase shift and some attenuation is incurred. Also, the smoothed wave has fewer elements!  
 
 ```
 n = 3
