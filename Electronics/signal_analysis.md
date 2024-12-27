@@ -28,6 +28,8 @@ Websites:
 - [What is the most precise frequency analysis spectrography algorythm?](https://dsp.stackexchange.com/questions/23048/what-is-the-most-precise-frequency-analysis-spectrography-algorythm)
 
 
+### Programming  
+- [Finding local maxima/minima with Numpy in a 1D numpy array](https://stackoverflow.com/questions/4624970/finding-local-maxima-minima-with-numpy-in-a-1d-numpy-array)
 
 
 [(book) The Scientist and Engineer's Guide to Digital Signal Processing By Steven W. Smith, Ph.D.](https://www.dspguide.com/)
