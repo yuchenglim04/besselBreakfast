@@ -25,3 +25,15 @@ for i in range(n):
 smoothed_wave = smoothed_wave/n
 ```
 
+**Simple Autocorrelation**
+Theoretical autocorrelation is suitable for infinite, periodic, continuous functions. Our function is periodic, however we only have finite number of data points. As correlation proceeds, the overlap gets smaller and smaller and the autocorrelation function decreases in value. So we normalize each value by dividing by the number of data points. 
+
+```
+autocorrelation = []
+num_elem = raw_wave.shape[0]
+
+for x in range(num_elem):
+    autocorrelation.append(np.sum(raw_wave[:num_elem-x]*raw_wave[x:])/(num_elem-x))
+
+autocorrelation = np.array(autocorrelation)
+```
