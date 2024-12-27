@@ -10,6 +10,9 @@ a Hardware Specialist
 
 are placed together in the same lab? Perhaps space travel could be a reality. But first, we need a well-curated knowledgebase, to learn things in the shortest time possible.
 
+What's the best way to learn Bessel functions then?
+
+*Picture???*
 
 _________________________________________
 
