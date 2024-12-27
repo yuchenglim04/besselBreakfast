@@ -1,4 +1,4 @@
-$\huge quaNTUm: baby \ steps \ to \ reach \ the \ stars$
+# Bessel for Breakfast $\int^{\infty}_{0} J_0 (x) dx = 1$
 
 What happens when:
 
