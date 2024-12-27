@@ -1,5 +1,7 @@
 Here is a big list of useful, small code snippets. Just copy, paste to run!
 
+P.S. the array notation [:-j] present problems when j is 0.
+
 ```
 n = 3
 
