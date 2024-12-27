@@ -3,7 +3,7 @@
 Bye
 
 
-![](images/autocorrelation_27_12_24/autocorrelation_centred.png)
+![Bad](images/autocorrelation_27_12_24/autocorrelation_centred.png)
 
 
 Hello
