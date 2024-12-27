@@ -1,4 +1,5 @@
-Here is a big list of useful, small code snippets. Just copy, paste to run! Only need to change the parameter at the top (sometimes perhaps copy your variable name and paste it in...)
+Here is a big list of useful, small code snippets. Just copy, paste to run! Only need to change the parameter at the top (sometimes perhaps copy your variable name and paste it in...)  
+
 **Ipywidgets**
 ```
 import ipywidgets as widgets
