@@ -1,9 +1,17 @@
 # Autocorrelation 27/12/2024
 
-Bye
+
+
+:-------------------------:|:-------------------------:
+![](../images/autocorrelation_27_12_24/uncentred_wave.png) | ![](../images/autocorrelation_27_12_24/centred_wave.png)
 
 
 ![](../images/autocorrelation_27_12_24/autocorrelation_centred.png)
+![](../images/autocorrelation_27_12_24/)
 
+![](../images/autocorrelation_27_12_24/)
 
-Hello
+![](../images/autocorrelation_27_12_24/)
+
+![](../images/autocorrelation_27_12_24/)
+
