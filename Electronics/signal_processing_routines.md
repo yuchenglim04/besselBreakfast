@@ -1,4 +1,6 @@
-Here is a big list of useful, small code snippets. Just copy, paste to run!
+Here is a big list of useful, small code snippets. Just copy, paste to run! Only need to change the parameter at the top (sometimes perhaps copy your variable name and paste it in...)
+
+**Simple moving average, n points**
 
 P.S. the array notation [:-j] present problems when j is 0.
 
