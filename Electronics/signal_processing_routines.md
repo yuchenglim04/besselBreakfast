@@ -1,4 +1,18 @@
 Here is a big list of useful, small code snippets. Just copy, paste to run! Only need to change the parameter at the top (sometimes perhaps copy your variable name and paste it in...)
+**Ipywidgets**
+```
+import ipywidgets as widgets
+
+@widgets.interact( \
+    left_cursor = widgets.FloatSlider(value = -5, min=-6, max=5, step=0.01, readout_format='.2f'), \
+    right_cursor = widgets.FloatSlider(value = 5, min=-6, max=5, step=0.01, readout_format='.2f'), \
+    i = (0,28), cursor_height=(0, 15))
+
+def plot_wave(left_cursor, right_cursor, i = 0, cursor_height = 14):
+
+
+
+```
 
 **Simple moving average, n points**
 
