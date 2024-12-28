@@ -1,10 +1,15 @@
+Ironically, Singapore's National Park website is great for searching and identifying trees. Where did Taman Negara go? :(
+
 # Trees of Bukit Kiara
-- Macaranga
+- Macaranga/Mahang
 - Macaranga gigantea
 - Simpul air
-- Burflower-tree
+- Burflower-tree/Kelempayan 
 - Keruing
 - Batai
 - Sea hibiscus
+- Tapak Harimau/Trevesia burckii
+
+https://www.fobk.org/flora-fauna/forest-regeneration/
 
 # Trees of NTU??!!
