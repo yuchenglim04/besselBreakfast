@@ -1,4 +1,4 @@
-Ironically, Singapore's National Park website is great for searching and identifying trees. Where did Taman Negara go? :(
+Ironically, Singapore's National Parks website is great for searching and identifying trees. Where did Taman Negara go? :(
 
 # Trees of Bukit Kiara
 - Macaranga/Mahang
