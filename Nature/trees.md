@@ -10,6 +10,7 @@ Ironically, Singapore's National Parks website is great for searching and identi
 - Sea hibiscus
 - Tapak Harimau/Trevesia burckii
 
-https://www.fobk.org/flora-fauna/forest-regeneration/
+https://www.fobk.org/flora-fauna/forest-regeneration/  
+https://borneoficus.info/  
 
 # Trees of NTU??!!
