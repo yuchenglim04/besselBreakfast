@@ -34,6 +34,14 @@ lsblk
 df -hT                                 # check space
 ```
 
+**How to open and use Jupyter Lab?**
+I created a bash script file named ```jupy_run ```, then ```./jupy*``` my way through.  
+```
+( jupyter lab --no-browser  & ) ; sleep 5 ;/mnt/c/'Program Files'/Google/Chrome/Application/chrome.exe http://localhost:8888/lab
+```
+
+
+
 https://askubuntu.com/questions/1116200/how-can-i-access-my-usb-drive-from-my-windows-subsystem-for-linux-ubuntu-dist  
 It's nice when references are given  
 https://askubuntu.com/questions/1454199/how-can-i-mount-a-removable-usb-drive-in-wsl
