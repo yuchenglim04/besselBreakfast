@@ -10,7 +10,8 @@ Also, make your own help files or tutorials for yourself. Different sources give
 - Automation (bash scripting)
 - Ease(?) of compiling libraries 
 - Lot's of command line tools
-- Many important hacking, scientific tools are command line!
+- Many important downloadable hacking, scientific tools are command line!
+- customizeable
 
 # How to learn Linux: have you ever wondered how people write tutorials?
 - Primary sources:
