@@ -35,7 +35,7 @@ info cat
 ```
 
 Bash scripting  
-[Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+[Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)  
 [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 # Exploring the filesystem
