@@ -6,6 +6,12 @@ Also, make your own help files or tutorials for yourself. Different sources give
 
 # Learning Linux the "Open Every Door", "Clicking Every Button" Way
 
+# Why Linux?
+- Automation (bash scripting)
+- Ease(?) of compiling libraries 
+- Lot's of command line tools
+- Many important hacking, scientific tools are command line!
+
 # How to learn Linux: have you ever wondered how people write tutorials?
 - Primary sources:
   - Linux gurus
