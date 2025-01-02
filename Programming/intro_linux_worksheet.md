@@ -2,6 +2,8 @@ This introduction will provide insights into the operation of Linux. It will not
 
 There are many cheat sheets online. But always try to make one for yourself, tailored for your work! We will provide our personal sheets so that you can get started right away.
 
+Also, make your own help files or tutorials for yourself. Different sources give different examples. Some might be inspirational to you, but dull to someone else. So copy and paste links, examples, tips and tricks into your very own 'tutorial'. Someday you might share it out. But perhaps there's no need to, given the sheer number of very useful ones out there. Anyway, make your own notes.
+
 # Learning Linux the "Open Every Door", "Clicking Every Button" Way
 
 # How to learn Linux: have you ever wondered how people write tutorials?
@@ -31,6 +33,10 @@ help cat                #-bash: help: no help topics match `cat'.  Try `help hel
 man cat
 info cat
 ```
+
+Bash scripting  
+[Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)
+[Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 
 # Exploring the filesystem
 root: /  
