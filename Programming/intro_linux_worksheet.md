@@ -55,6 +55,7 @@ bin
 dev
 home
 mnt
+var
 ```
 
 
