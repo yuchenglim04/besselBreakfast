@@ -55,7 +55,7 @@ bin
 dev
 home
 mnt
-var
+var                    # your there's a folder 'log' that contains system logs
 ```
 
 
