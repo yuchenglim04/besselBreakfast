@@ -1,6 +1,6 @@
 This introduction will provide insights into the operation of Linux. It will not explain the commands used. The commands are placed in a separate cheatsheet instead. The idea is that you should learn the commands as building-blocks, then combine them in a creative way to achieve your goals.
 
-# Learning Linux the "Open Every Door" Way
+# Learning Linux the "Open Every Door", "Clicking Every Button" Way
 
 # How to learn Linux: have you ever wondered how people write tutorials?
 - Primary sources:
