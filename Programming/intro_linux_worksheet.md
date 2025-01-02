@@ -58,7 +58,7 @@ mnt                    # external directories, like thumbdrive or the Windows dr
 var                    # your there's a folder 'log' that contains system logs
 ```
 
-
+Go to home and list all files, including hidden files. There is a ```.bash_history``` file connected to ```history``` command.
 
 # Establising workflows
 ## Installing packages
