@@ -51,10 +51,10 @@ Try going to root, then display the folders and files there (try ls, then ls -a)
 
 Several important folders:  
 ```
-bin
-dev
+bin                    # do you see 'echo', 'cat', etc? Try to cat the files!
+dev                    # devices
 home
-mnt
+mnt                    # external directories, like thumbdrive or the Windows drive
 var                    # your there's a folder 'log' that contains system logs
 ```
 
