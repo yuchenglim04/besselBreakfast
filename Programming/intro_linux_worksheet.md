@@ -59,3 +59,10 @@ mnt
 
 
 
+# Establising workflows
+## Installing packages
+## compiling code (C, C++)
+## auto backup
+## auto upload to Github
+## mounting, unmounting devices
+
