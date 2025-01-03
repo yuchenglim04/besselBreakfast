@@ -4,6 +4,7 @@ What other people out there are doing:
 - [PySDR: A Guide to SDR and DSP using Python](https://pysdr.org/content/intro.html)
 - [The Scientist and Engineer's Guide to Digital Signal Processing](https://www.dspguide.com/)
 - [Software-Defined Radio for Engineers, 2018 (Analog Devices)](https://www.analog.com/en/resources/technical-books/software-defined-radio-for-engineers.html)
+- [ThunderScope Analog Front End - Gain And Attenuation](https://youtu.be/OU12bTZnh7g?si=ilMrZhAP0wgL2uvE)
 - 
 Big lists of useful things:
 - [A list of Analog Devices tutorials](https://tomverbeure.github.io/2021/02/15/Analog-Devices-Tutorials.html)
