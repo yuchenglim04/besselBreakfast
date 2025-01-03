@@ -1,0 +1,6 @@
+- [Liu Lab Computational Chemistry Tutorials](https://liu-group.github.io/about/)
+- [A (hopefully) gentle guide to the computer implementation of molecular integrals over Gaussian basis functions.](https://joshuagoings.com/2017/04/28/integrals/)
+- [Advancing Sustainability through Computational Chemistry Methods](https://sites.google.com/kentech.ac.kr/kimgroup/tutorial)
+- [Sherrill Group: notes on quantum chemistry (Wayback machine)](https://web.archive.org/web/20240303210951/http://vergil.chemistry.gatech.edu/notes/index.html)
+- [Computational Chemistry (reading) :](https://people.iith.ac.in/bhabani/tut.htm)
+- [Good books about computational chemistry of solid state materials for newbie](https://mattermodeling.stackexchange.com/questions/5090/good-books-about-computational-chemistry-of-solid-state-materials-for-newbie)
