@@ -20,7 +20,7 @@ Collect these notes; grow them as you learn more and more. Grow! Don't throw the
 ### Example:
 When doing electromagnetism, you can organize problems by systems. All problems related to the electric dipole. All problems related to Laplacian and spherical surface, conducting or not. These problems might come from different books of different level ("high school" to graduate or even papers).
 
-### Reading List
+### Reading List :)
 - [Physics SE Resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)
 - [In High School and Want to Do Advanced Mathematics?](https://www.physicsforums.com/insights/high-school-want-advanced-mathematics/)
 - [How to Self Study Analysis: Intro to Analysis](https://www.physicsforums.com/insights/self-study-analysis-part-intro-analysis/)
