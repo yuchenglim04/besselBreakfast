@@ -29,7 +29,7 @@ When doing electromagnetism, you can organize problems by systems. All problems 
 - [How to Self Study Abstract Algebra](https://www.physicsforums.com/insights/self-study-algebra-part-ii-abstract-algebra/)
 - [How to Self Study Geometry for Students](https://www.physicsforums.com/insights/self-study-geometry-part-pure-geometry/)
 
-
+### If you're interested, you can find us at SPMS hahahaha
 
 
 
