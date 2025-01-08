@@ -5,7 +5,7 @@
 (see juanraga's answer, answered Nov 1, 2012 )  
 [Which derivative with respect to time is which in the Heisenberg picture of quantum mechanics?](https://physics.stackexchange.com/a/103511/259297)
 
-(see answered Mar 14, 2014 at 21:38, Urgje)
+(see answered Mar 14, 2014 at 21:38, Urgje)  
 [What is the commutator of an operator and its derivative?](https://physics.stackexchange.com/posts/103511/edit)
 
 
