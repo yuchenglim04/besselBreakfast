@@ -11,3 +11,10 @@
 
 ## Random:
 [How the Klein–Nishina formula was derived: Based on the Sangokan Nishina Source Materials](https://pmc.ncbi.nlm.nih.gov/articles/PMC5709540/)
+
+
+
+## What others are doing:
+- [The Space Shuttle: A $200 Billion Lesson in Risk Management](https://youtu.be/MShnWhUGqHw?si=XYp7M0aZG0-m7D_n)
+- [An Engineering Fairy Tale: Cascade Failure at the Super Kamiokande](https://youtu.be/YoBFjD5tn_E?si=3Cr0vNjQzkw_qEt0)
+- [Lec0: Sizing a Rocket Engine from Scratch (Intro to Rocket Design)](https://youtu.be/sTZhUrflZF4?si=rBqSKwDxFLz9zqXO)
