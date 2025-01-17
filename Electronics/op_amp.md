@@ -8,7 +8,10 @@ Unity gain buffer:
 - [How to lower input resistance of buffer (unity-gain) op-amp?](https://electronics.stackexchange.com/questions/643418/how-to-lower-input-resistance-of-buffer-unity-gain-op-amp)
 - [Opamp voltage follower with weak positive feedback](https://electronics.stackexchange.com/questions/608127/opamp-voltage-follower-with-weak-positive-feedback?noredirect=1&lq=1)
 
-
+Non-inverting amplifier:
+- Resistor sizing:
+  - resistors cannot be too small -> large current exceeding max current output of Op Amp
+  - resistors cannot be too large -> greater noise 
 
 Inverting amplifier:
 - ideal model
