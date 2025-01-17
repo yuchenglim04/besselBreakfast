@@ -27,7 +27,7 @@ https://mathshistory.st-andrews.ac.uk/Extras/Grothendieck_Mystery/
 
 [doing math is lonely](https://youtu.be/LEsI4kPEkgw?si=ULUAfyCQkDpBJYCg)
 
-
+[How I passed my 1st-year classes](https://oge.mit.edu/how-i-passed-my-1st-year-classes/)
 
 ### Reading List :)
 - [Physics SE Resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)
