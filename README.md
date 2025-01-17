@@ -20,6 +20,15 @@ Collect these notes; grow them as you learn more and more. Grow! Don't throw the
 ### Example:
 When doing electromagnetism, you can organize problems by systems. All problems related to the electric dipole. All problems related to Laplacian and spherical surface, conducting or not. These problems might come from different books of different level ("high school" to graduate or even papers).
 
+### Random thoughts from others
+> The former student whom Grothendieck particularly vilified was widely recognised as his most brilliant: Pierre Deligne. But Deligne had wronged him through an ingenious piece of mathematics. Four years after Grothendieck left the I.H.E.S., Deligne had proved the fourth and final Weil conjecture. "But he solved it the wrong way," Michael Artin said, with an impish smile - he didn't use the foundational system that Grothendieck had established. Ravi Vakil told me that mathematicians sometimes describe this moment with an analogy: "It was as if, in order to get from one peak to another, Deligne shot an arrow across the valley and made a high wire and then crossed on it." Grothendieck wanted the problem to be solved by filling in the entire valley with stones.
+
+https://mathshistory.st-andrews.ac.uk/Extras/Grothendieck_Mystery/
+
+[doing math is lonely](https://youtu.be/LEsI4kPEkgw?si=ULUAfyCQkDpBJYCg)
+
+
+
 ### Reading List :)
 - [Physics SE Resource recommendations](https://physics.stackexchange.com/questions/12175/resource-recommendations)
 - [In High School and Want to Do Advanced Mathematics?](https://www.physicsforums.com/insights/high-school-want-advanced-mathematics/)
