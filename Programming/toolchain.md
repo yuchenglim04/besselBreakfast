@@ -4,24 +4,26 @@ sudo apt-get upgrade
 
 # pip
 ```
+python -m pip install --upgrade pip
+py -m pip insitall pip==21.1.1
+
 pip --version
 
-python -m pip install --upgrade pip
+pip index versions numpy
 
 pip install <package_name>
-
-py -m pip insitall pip==21.1.1
+pip install <package_name> --upgrade
 
 pip show <package_name>
 
 pip list
-
 pip list -v                               # list with file location
-
-pip install <package_name> --upgrade
 
 pip uninstall <package_name>
 ```
+
+[How to list all available package versions with pip?](https://stackoverflow.com/questions/4888027/how-to-list-all-available-package-versions-with-pip)
+
 
 # Virtual Environment
 ### Approach 1:
