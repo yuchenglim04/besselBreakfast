@@ -1,10 +1,12 @@
 Useful guides?
+- [Linux Journey: Linux-fu](https://linuxjourney.com/)
 - [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)
-- [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
+
 
 What others have been doing:  
 - [Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.](https://github.com/cyberglot/awesome-answers?tab=readme-ov-file#license)
 - [The list of awesome Stackoverflow's answers and questions](https://github.com/dangsonbk/awesome_stackoverflow)
+- [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
 Potential projects?
 - [Writing a Physics Engine from scratch](https://youtu.be/lS_qeBy3aQI?si=F6cyESOdUQHOFuk1)
