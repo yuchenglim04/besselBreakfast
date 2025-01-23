@@ -54,7 +54,47 @@ scope.write('data:stop {}'.format(record)) # last sample
 scope.write('wfmpre:byt_nr 1')                               # 1 byte per sample
 ```
 
+```
+#get output
+# acq config
+scope.write('data:source CH1') # channel
+scope.write('acquire:state 0') # stop
+scope.write('acquire:stopafter SEQUENCE') # single
+scope.write('acquire:state 1') # run
+t5 = time.perf_counter()
+r = scope.query('*opc?') # sync
+t6 = time.perf_counter()
+print('acquire time: {} s'.format(t6 - t5))
 
+# data query
+t7 = time.perf_counter()
+bin_wave = scope.query_binary_values('curve?', datatype='b', container=np.array)
+t8 = time.perf_counter()
+print('transfer time: {} s'.format(t8 - t7))
+
+# retrieve scaling factors
+tscale = float(scope.query('wfmpre:xincr?'))
+tstart = float(scope.query('wfmpre:xzero?'))
+vscale = float(scope.query('wfmpre:ymult?')) # volts / level
+voff = float(scope.query('wfmpre:yzero?')) # reference voltage
+vpos = float(scope.query('wfmpre:yoff?')) # reference position (level)
+
+# error checking
+r = int(scope.query('*esr?'))
+print('event status register: 0b{:08b}'.format(r))
+r = scope.query('allev?').strip()
+print('all event messages: {}'.format(r))
+
+# create scaled vectors
+# horizontal (time)
+total_time = tscale * record
+tstop = tstart + total_time
+scaled_time = np.linspace(tstart, tstop, num=record, endpoint=False, dtype='double')
+# vertical (voltage)
+unscaled_wave = np.array(bin_wave, dtype='double') # data type conversion
+scaled_wave = (unscaled_wave - vpos) * vscale + voff
+
+```
 
 ```
 scope.close()
