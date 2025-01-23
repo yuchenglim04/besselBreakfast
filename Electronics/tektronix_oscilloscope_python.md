@@ -45,7 +45,7 @@ scope.write('CH2:probe 1')                               # 1x attenuation
 scope.write('CH2:scale 100E-3')                                #100mV / div
 scope.write('CH2:position 11')                              # offset by 11 div , i.e. 11*100mV
 
-scope.write('horizontal:main:scale 100E-6')
+scope.write('horizontal:main:scale 100E-6')                # 100 micro seconds
 
 scope.write('data:start 1') # first sample
 record = int(scope.query('wfmpre:nr_pt?'))
