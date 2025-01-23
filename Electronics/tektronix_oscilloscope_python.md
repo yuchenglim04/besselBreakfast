@@ -3,7 +3,7 @@ https://github.com/tektronix/Programmatic-Control-Examples/blob/master/Examples/
 https://github.com/tektronix/Programmatic-Control-Examples/blob/master/Examples/Oscilloscopes/BenchScopes/src/SaveHardcopyExample/SaveHardcopy_example.py
 
 ```
-import time # std module
+import time                                               # std module
 import pyvisa as visa 
 ```
 ```
