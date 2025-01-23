@@ -90,7 +90,8 @@ print('all event messages: {}'.format(r))
 # horizontal (time)
 total_time = tscale * n_samples
 tstop = tstart + total_time
-scaled_time = np.linspace(tstart, tstop, num=n_samples, endpoint=True, dtype='double')     # includes first&last samples (endpoint) 
+scaled_time = np.linspace(tstart, tstop, num=n_samples, endpoint=True, dtype='double')
+                                                                      # includes first&last samples (endpoint) 
 # vertical (voltage)
 unscaled_wave = np.array(bin_wave, dtype='double')                                         # data type conversion
 scaled_wave = (unscaled_wave - vpos) * vscale + voff
