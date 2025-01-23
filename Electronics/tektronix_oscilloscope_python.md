@@ -11,7 +11,8 @@ visa_address = 'USB0::0x0699::0x03C4::C026212::INSTR'
 
 rm = visa.ResourceManager()
 scope = rm.open_resource(visa_address)
-scope.timeout = 20000                                         # ms
+scope.timeout = 20000                                         # ms ; scope will not reply queries immediately. So how much time 
+                                                              # you will wait before error message appears
 scope.encoding = 'latin_1'
 scope.read_termination = '\n'
 scope.write_termination = None
@@ -47,7 +48,7 @@ scope.write('CH2:position 11')                              # offset by 11 div ,
 
 scope.write('horizontal:main:scale 100E-6')                # 100 micro seconds
 
-scope.write('data:start 1') # first sample
+scope.write('data:start 1')                               # first sample in memory
 record = int(scope.query('wfmpre:nr_pt?'))
 scope.write('data:stop {}'.format(record)) # last sample
 scope.write('wfmpre:byt_nr 1')                               # 1 byte per sample
