@@ -1,6 +1,11 @@
+Official sample code
+
 https://github.com/tektronix/Programmatic-Control-Examples/blob/master/Examples/Oscilloscopes/BenchScopes/src/SimplePlotExample/tbs_simple_plot.py
 
 https://github.com/tektronix/Programmatic-Control-Examples/blob/master/Examples/Oscilloscopes/BenchScopes/src/SaveHardcopyExample/SaveHardcopy_example.py
+
+
+[TBS1000B/EDU, ...., Series Digital Oscilloscopes Programmer](https://download.tek.com/manual/TBS1000-B-EDU-TDS2000-B-C-TDS1000-B-C-EDU-TDS200-TPS2000-Programmer.pdf)
 
 ```
 import time                                               # std module
