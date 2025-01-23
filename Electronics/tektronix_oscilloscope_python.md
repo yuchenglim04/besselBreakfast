@@ -11,8 +11,8 @@ visa_address = 'USB0::0x0699::0x03C4::C026212::INSTR'
 
 rm = visa.ResourceManager()
 scope = rm.open_resource(visa_address)
-scope.timeout = 20000                                    # ms ; scope will not reply queries immediately. So how much time 
-                                                         # you will wait before error message appears
+scope.timeout = 20000                                    # ms ; scope will not reply queries immediately.
+                                                         # Sets much time  before error message appears
 scope.encoding = 'latin_1'
 scope.read_termination = '\n'
 scope.write_termination = None
