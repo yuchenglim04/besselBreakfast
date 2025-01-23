@@ -32,7 +32,7 @@ Press Enter to continue...
 ```
 scope.write('autoset EXECUTE') # autoset
 t3 = time.perf_counter()
-r = scope.query('*opc?') # sync
+r = scope.query('*opc?')                               # sync; scope reply '1' after operation done
 t4 = time.perf_counter()
 print('autoset time: {} s'.format(t4 - t3))
 ```
