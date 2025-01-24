@@ -4,6 +4,7 @@ Useful guides?
 - [Python Like You Mean It](https://www.pythonlikeyoumeanit.com/index.html)  
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)  
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
+- [Bash scripting cheatsheet](https://devhints.io/bash)
 
 What others have been doing:  
 - [Curated list of inspiring and thoughtful answers given on stackoverflow, quora, etc.](https://github.com/cyberglot/awesome-answers?tab=readme-ov-file#license)
