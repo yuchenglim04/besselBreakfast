@@ -18,3 +18,7 @@ Potential projects?
 - [Teaching myself C so I can build a particle simulation](https://youtu.be/NorXFOobehY?si=w_LS2ZZNxTjk-RmN)
 - [Galaxy Collisions: Simulation vs Observations](https://youtu.be/C0XNyTp5brM?si=X5DHejkq63D43Q2a)
 - [Are there other Chaotic Attractors?](https://youtu.be/idpOunnpKTo?si=6u4VX_0489nyLXgI)
+
+
+> This tutorial encourages a modular approach to constructing a script. Make note of and collect "boilerplate" code snippets that might be useful in future scripts. Eventually you will build quite an extensive library of nifty routines.
+> https://tldp.org/LDP/abs/html/sha-bang.html
