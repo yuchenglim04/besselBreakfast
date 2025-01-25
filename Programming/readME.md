@@ -25,3 +25,10 @@ Potential projects?
 
 > This tutorial encourages a modular approach to constructing a script. Make note of and collect "boilerplate" code snippets that might be useful in future scripts. Eventually you will build quite an extensive library of nifty routines.
 > https://tldp.org/LDP/abs/html/sha-bang.html
+
+
+
+## Raspberry Pi
+[Getting started with your Raspberry Pi
+](https://www.raspberrypi.com/documentation/computers/getting-started.html)
+
