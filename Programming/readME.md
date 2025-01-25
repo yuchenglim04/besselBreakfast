@@ -33,3 +33,5 @@ Potential projects?
 ](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 
 Build Supercomputers with Raspberry Pi 3
+
+Hacking Raspberry Pi
