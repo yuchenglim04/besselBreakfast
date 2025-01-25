@@ -32,3 +32,4 @@ Potential projects?
 [Getting started with your Raspberry Pi
 ](https://www.raspberrypi.com/documentation/computers/getting-started.html)
 
+Build Supercomputers with Raspberry Pi 3
