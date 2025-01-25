@@ -41,3 +41,5 @@ Hacking Raspberry Pi
 [High Performance Parallel Computing: A Beginner’s Guide, Chris H. Rycroft](https://math.mit.edu/spams/fall2006/fall2006_rycroft.pdf)
 
 [GPU Accelerated Computing with C and C++](https://developer.nvidia.com/how-to-cuda-c-cpp)
+
+[Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial##Neumann)
