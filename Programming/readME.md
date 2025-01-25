@@ -5,6 +5,7 @@ Useful guides?
 - [Advanced Bash-Scripting Guide](https://tldp.org/LDP/abs/html/)  
 - [Bash Reference Manual](https://www.gnu.org/software/bash/manual/bash.html)
 - [Bash scripting cheatsheet](https://devhints.io/bash)
+- [The Stony Brook Algorithm Repository](https://algorist.com/algorist.html)
 
 What others have been doing:  
 - [Cheatsheets](https://devhints.io/)
