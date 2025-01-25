@@ -38,6 +38,6 @@ Hacking Raspberry Pi
 
 
 ## Supercomputing?
-[High Performance Parallel Computing: A Beginner’s Guide](https://math.mit.edu/spams/fall2006/fall2006_rycroft.pdf)
+[High Performance Parallel Computing: A Beginner’s Guide, Chris H. Rycroft](https://math.mit.edu/spams/fall2006/fall2006_rycroft.pdf)
 
 
