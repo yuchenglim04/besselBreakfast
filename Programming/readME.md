@@ -35,3 +35,9 @@ Potential projects?
 Build Supercomputers with Raspberry Pi 3
 
 Hacking Raspberry Pi
+
+
+## Supercomputing?
+[High Performance Parallel Computing: A Beginner’s Guide](https://math.mit.edu/spams/fall2006/fall2006_rycroft.pdf)
+
+
