@@ -15,6 +15,7 @@ What others have been doing:
 - [The Arcane Algorithm Archive](https://www.algorithm-archive.org/)
 
 Potential projects?
+- [RaspberryPiOS](https://www.rpi4os.com/)
 - [Writing a Physics Engine from scratch](https://youtu.be/lS_qeBy3aQI?si=F6cyESOdUQHOFuk1)
 - [Writing a Physics Engine from scratch - collision detection optimization](https://youtu.be/9IULfQH7E90?si=IYJ4f70TbTJ_6w5a)
 - [Making a particle simulation in C++ (Part 1)](https://youtu.be/XL8B5nzNEOc?si=jnXNE9GlKJZl6lUX)
