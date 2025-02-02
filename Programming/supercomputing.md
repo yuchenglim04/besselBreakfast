@@ -33,6 +33,7 @@ int main(int argc, char** argv) {
      int numThreads = omp_get_num_threads();
  }
 
+// choose one!
 #pragma omp parallel for
 #pragma omp parallel for schedule(static,1)
 #pragma omp parallel for schedule(dynamic,1)
