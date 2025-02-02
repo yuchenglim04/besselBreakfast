@@ -5,7 +5,7 @@
 
 - [What are the differences between MPI and OpenMP?](https://stackoverflow.com/questions/32464084/what-are-the-differences-between-mpi-and-openmp)
 - [Introduction to Parallel Programming with MPI](https://rantahar.github.io/introduction-to-mpi/index.html)
-- [INTERMEDIATE MPI](https://enccs.github.io/intermediate-mpi/)
+- [INTERMEDIATE MPI](https://enccs.github.io/intermediate-mpi/)
 ```
 lscpu
 top      # press 1
