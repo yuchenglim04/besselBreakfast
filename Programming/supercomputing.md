@@ -16,12 +16,13 @@ top      # press 1
 ```
 #include <omp.h>     // OpenMP
 
-int main(int argc, char** argv) {
+int main(int argc, char** argv)
+{
    int array[SIZE];
 
    if (argc > 1) {
         omp_set_num_threads( atoi(argv[1]) );
-   }
+}
 
 ```
 
