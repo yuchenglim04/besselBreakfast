@@ -1,6 +1,6 @@
 - [learnpdc](https://www.learnpdc.org/)
-- [CSinParallel](https://csinparallel.org/index.html)
-- [Raspberry Pi Handout](https://www.learnpdc.org/RaspberryPiHandout/index.html)
+   - [CSinParallel](https://csinparallel.org/index.html)
+   - [Raspberry Pi Handout](https://www.learnpdc.org/RaspberryPiHandout/index.html)
 
 
 - [What are the differences between MPI and OpenMP?](https://stackoverflow.com/questions/32464084/what-are-the-differences-between-mpi-and-openmp)
