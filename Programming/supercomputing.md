@@ -1,1 +1,2 @@
-[Raspberry Pi Handout](https://www.learnpdc.org/RaspberryPiHandout/index.html)
+- [CSinParallel](https://csinparallel.org/index.html)
+- [Raspberry Pi Handout](https://www.learnpdc.org/RaspberryPiHandout/index.html)
