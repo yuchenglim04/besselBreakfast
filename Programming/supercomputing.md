@@ -20,10 +20,13 @@ int main(int argc, char** argv)
 {
    int array[SIZE];
 
-   if (argc > 1) {
+   if (argc > 1)
+   {
         omp_set_num_threads( atoi(argv[1]) );
-}
+   }
 
+   return 0;
+}
 ```
 
 
