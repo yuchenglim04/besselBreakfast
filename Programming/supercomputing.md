@@ -9,12 +9,15 @@
 ```
 lscpu
 top      # press 1
-
+time -p executable [arguments]
 ```
 
 # openMP
 ```
-#include <omp.h>     // OpenMP
+#include <math.h>
+#include <stdio.h> // printf()
+#include <stdlib.h> // atoi()
+#include <omp.h> // OpenMP
 
 int main(int argc, char** argv)
 {
@@ -24,6 +27,15 @@ int main(int argc, char** argv)
    {
         omp_set_num_threads( atoi(argv[1]) );
    }
+
+
+#ifdef _OPENMP
+    omp_set_num_threads( threadcnt );
+    printf("OMP defined, threadct = %d\n", threadcnt);
+#else
+    printf("OMP not defined");
+#endif
+
 
    return 0;
 }
@@ -46,4 +58,16 @@ int main(int argc, char** argv)
 }
 
 
+
+#pragma omp parallel for \
+private(i) shared (a, n, h, integral) reduction(+: integral)
+for(i = 1; i < n; i++)
+{
+   integral += i
+}
+
 ```
+
+
+
+race conditions and the reduction clause
