@@ -1,7 +1,7 @@
 - [learnpdc](https://www.learnpdc.org/)
    - [CSinParallel](https://csinparallel.org/index.html)
    - [Raspberry Pi Handout](https://www.learnpdc.org/RaspberryPiHandout/index.html)
-
+   - [Distributed Computing Using MPI and the Raspberry Pi](https://www.learnpdc.org/RaspberryPi-mpi/)
 
 - [What are the differences between MPI and OpenMP?](https://stackoverflow.com/questions/32464084/what-are-the-differences-between-mpi-and-openmp)
 - [Introduction to Parallel Programming with MPI](https://rantahar.github.io/introduction-to-mpi/index.html)
