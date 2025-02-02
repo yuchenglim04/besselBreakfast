@@ -1,2 +1,3 @@
+- [learnpdc](https://www.learnpdc.org/)
 - [CSinParallel](https://csinparallel.org/index.html)
 - [Raspberry Pi Handout](https://www.learnpdc.org/RaspberryPiHandout/index.html)
