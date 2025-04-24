@@ -1,4 +1,7 @@
 ## What I found confusing:
+[Principal value of 1/x
+ and few questions about complex analysis in Peskin's QFT textbook](https://physics.stackexchange.com/questions/105729/principal-value-of-1-x-and-few-questions-about-complex-analysis-in-peskins-qf)
+
 [Dirac-delta-functions as eigenbasis of the position operator - pure nonsense? Or can more be said?](https://physics.stackexchange.com/questions/606867/dirac-delta-functions-as-eigenbasis-of-the-position-operator-pure-nonsense-or)
 
 [Does the Hamiltonian always commute with the Time Evolution Operator?](https://physics.stackexchange.com/questions/810109/does-the-hamiltonian-always-commute-with-the-time-evolution-operator)
