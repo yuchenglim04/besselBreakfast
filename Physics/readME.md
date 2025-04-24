@@ -6,6 +6,21 @@
 
 [Multi-loop beta function of gauge theory (*without* Feynman diagrams)](https://physics.stackexchange.com/questions/45577/multi-loop-beta-function-of-gauge-theory-without-feynman-diagrams)
 
+[Can someone provide references to understand the Schwinger Model?](https://physics.stackexchange.com/questions/712962/can-someone-provide-references-to-understand-the-schwinger-model)
+
+Nice overviews of Feynman diagrams   
+(Old fashioned perturbation theory vs feynman diagrams p.42)  
+https://sites.krieger.jhu.edu/jared-kaplan/files/2016/05/QFTNotes.pdf
+
+Feynman diagrams vs old fashioned peturbation theory (OFPT) vs reality  
+https://physics.stackexchange.com/questions/800323/feynman-diagrams-vs-old-fashioned-peturbation-theory-ofpt-vs-reality
+
+(Motivation and history)  
+https://en.wikipedia.org/wiki/Feynman_diagram#Representation_of_physical_reality
+
+($\S$ Schwinger and Feynman)  
+https://en.wikipedia.org/wiki/Julian_Schwinger
+
 (Delta function and volume)  
 [Why is the infinite norm of state vectors in QFT a result of an infinite spacetime volume?](https://physics.stackexchange.com/questions/510274/why-is-the-infinite-norm-of-state-vectors-in-qft-a-result-of-an-infinite-spaceti)
 
