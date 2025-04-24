@@ -1,12 +1,12 @@
 ## What I found confusing:
 [Wikipedia Schwinger Model](https://en.m.wikipedia.org/wiki/Schwinger_model)
 
-(By shifting poles, aren't we evaluating a totally different integal? What about the orriginal integral?)
+(By shifting poles, aren't we evaluating a totally different integal? What about the orriginal integral?)  
 [Divergent integrals in QFT](https://physics.stackexchange.com/questions/406928/divergent-integrals-in-qft)
 
 [Multi-loop beta function of gauge theory (*without* Feynman diagrams)](https://physics.stackexchange.com/questions/45577/multi-loop-beta-function-of-gauge-theory-without-feynman-diagrams)
 
-(Delta function and volume)
+(Delta function and volume)  
 [Why is the infinite norm of state vectors in QFT a result of an infinite spacetime volume?](https://physics.stackexchange.com/questions/510274/why-is-the-infinite-norm-of-state-vectors-in-qft-a-result-of-an-infinite-spaceti)
 
 
