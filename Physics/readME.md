@@ -3,6 +3,9 @@
 
 [Multi-loop beta function of gauge theory (*without* Feynman diagrams)](https://physics.stackexchange.com/questions/45577/multi-loop-beta-function-of-gauge-theory-without-feynman-diagrams)
 
+(Delta function and volume)
+[Why is the infinite norm of state vectors in QFT a result of an infinite spacetime volume?](https://physics.stackexchange.com/questions/510274/why-is-the-infinite-norm-of-state-vectors-in-qft-a-result-of-an-infinite-spaceti)
+
 [Principal value of 1/x
  and few questions about complex analysis in Peskin's QFT textbook](https://physics.stackexchange.com/questions/105729/principal-value-of-1-x-and-few-questions-about-complex-analysis-in-peskins-qf)
 
