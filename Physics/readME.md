@@ -1,4 +1,8 @@
 ## What I found confusing:
+[Wikipedia Schwinger Model](https://en.m.wikipedia.org/wiki/Schwinger_model)
+
+[Multi-loop beta function of gauge theory (*without* Feynman diagrams)](https://physics.stackexchange.com/questions/45577/multi-loop-beta-function-of-gauge-theory-without-feynman-diagrams)
+
 [Principal value of 1/x
  and few questions about complex analysis in Peskin's QFT textbook](https://physics.stackexchange.com/questions/105729/principal-value-of-1-x-and-few-questions-about-complex-analysis-in-peskins-qf)
 
@@ -11,6 +15,8 @@
 
 (see answered Mar 14, 2014 at 21:38, Urgje)  
 [What is the commutator of an operator and its derivative?](https://physics.stackexchange.com/posts/103511/edit)
+
+
 
 ## Random:
 [How the Klein–Nishina formula was derived: Based on the Sangokan Nishina Source Materials](https://pmc.ncbi.nlm.nih.gov/articles/PMC5709540/)
