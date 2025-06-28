@@ -24,6 +24,12 @@ tar -xvf ../tar_file.tar.gz ./what_you_want                    # if you archived
 tar -xvf ../tar_file.tar.gz compressed_folder_name/what_you_want    # if you archived a folder
 ```
 
+```
+gzip file file.gz
+gunzip file.gz
+```
+
+
 ### Read the docs
 short  
 https://www.commandlinux.com/man-page/man1/tar.1.html  
