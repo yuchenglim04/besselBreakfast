@@ -25,7 +25,7 @@ tar -xvf ../tar_file.tar.gz compressed_folder_name/what_you_want    # if you arc
 ```
 
 ```
-gzip file file.gz
+gzip file
 gunzip file.gz
 ```
 
