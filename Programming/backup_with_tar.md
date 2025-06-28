@@ -1,4 +1,4 @@
-**To backup:**
+**To backup (perhaps in a script file; remove the comments!):**
 ```
  tar \
 --exclude='pico/pico-sdk' \                                    # excluding large files that I don't need
