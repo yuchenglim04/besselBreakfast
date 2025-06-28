@@ -59,3 +59,9 @@ date +%Y%m%d
 date +%m
 date %Y%m%d            #error
 ```
+
+
+**What won't work**
+```
+tar --exclude='c/' -cvf ntu.tar ntu c
+```
