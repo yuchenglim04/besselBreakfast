@@ -63,6 +63,7 @@ date %Y%m%d            #error
 
 **What won't work**
 ```
-tar --exclude='folder1' -cvf ntu.tar folder1 folder2                 # works
-tar --exclude='folder1/' -cvf ntu.tar folder1 folder2                # fails
+tar --exclude='folder1' -cvf my.tar folder1 folder2                 # works
+tar --exclude=folder1 -cvf my.tar folder1 folder2                 # works
+tar --exclude='folder1/' -cvf my.tar folder1 folder2                # fails
 ```
